@@ -50,7 +50,7 @@ project-root/
 Install the dependencies via:
 
 ```bash
-pip install pdfplumber PyMuPDF pillow numpy
+pip install -r requirements.txt
 ```
 
 ---
