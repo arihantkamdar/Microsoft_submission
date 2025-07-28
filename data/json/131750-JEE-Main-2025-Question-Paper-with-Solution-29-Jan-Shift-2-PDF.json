@@ -1,0 +1,1687 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "1. If the set of all a \uf0ce\uf020R, for which the equation 2x2 + (a \u2013 5)x + 15 = 3a has no real root, is the interval (\uf061\uf02c\uf062), and X = {x \uf0ce Z : \uf061 < x < \uf062}, then \uf0e5 Xx 2 is x \uf0ce equal to",
+    "options": {
+      "(1)": "2109",
+      "(2)": "2129",
+      "(3)": "2139",
+      "(4)": "2119"
+    },
+    "answer": "(3)",
+    "solution": " (a \u2013 5)2 \u2013 8(15 \u2013 3a) < 0 a2 + 14a + 25 \u2013 120 < 0 a2 + 14a \u2013 95 < 0 (a + 19)(a \u2013 5) < 0 a \uf0ce\uf020(\u201319, 5) \uf05c\u201319 < x < 5 \uf05c  Xx \uf0e5 2 = (12+ 22+ \u2026.+ 42) + (12+ 22+ \u2026 + 182) x \uf0ce 4 \uf0b4 5 \uf0b4 9 18 \uf0b4 19 \uf0b4 37 6 6 \uf03d \uf02b = 30 + 2109 = 2139",
+    "bounds": {
+      "top": 153.49231999999995,
+      "bottom": 497.81463999999994,
+      "left": 35.39999999999999,
+      "right": 290.65788416
+    },
+    "page": 1,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 2,
+    "question_text": "2. If sinx + sin2x = 1, x \uf0ce 0, \uf0f8, then \uf0e6 2\uf070 \uf0f6 \uf0e7 \uf0f7 \uf0e8 (cos12x + tan12x) + 3(cos10x + tan10x + cos8x + tan8x) +(cos6x + tan6x) is equal to",
+    "options": {
+      "(1)": "4",
+      "(2)": "3",
+      "(3)": "2",
+      "(4)": "1"
+    },
+    "answer": "(3)",
+    "solution": " sinx + sin2x = 1 \uf0de\uf020sinx = cos2x \uf0de tanx = cosx \uf05cGiven expression = 2cos12x + 6[cos10x + cos8x] + 2cos6x = 2[sin6x + 3sin5x + 3sin4x + sin3x] = 2sin3x[(sinx + 1)3] = 2[sin2x + sinx]3 = 2",
+    "bounds": {
+      "top": 507.3919268237628,
+      "bottom": 787.78464,
+      "left": 35.4,
+      "right": 293.32901791999996
+    },
+    "page": 1,
+    "side": "Part 1",
+    "images": [
+      "page1_q2_diagram.png"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question_text": "3. Let the area enclosed between the curves |y| = 1 \u2013 x2 and x2 + y2 = 1 be \uf061. If 9\uf061 = \uf062\uf070 + \uf067; \uf062\uf02c \uf067 are integers, then the value of |\uf062\uf02d\uf067| equals",
+    "options": {
+      "(1)": "27",
+      "(2)": "18",
+      "(3)": "15",
+      "(4)": "33"
+    },
+    "answer": "(4)",
+    "solution": "C 1 : |y| = 1 \u2013 x2 C 2 : x2 + y2 = 1 (0, 1) (1, 0) \uf05c\uf020Required Area = \uf061 = 4[Area of circle in 1st quad. \u2013  \uf0f2 0(1 \uf02d x 2 )dx ] 1 \uf0e9 1 \uf0f9 \uf070 \uf0e9 x 3 \uf0f9 0 \uf03d 4 \uf0ea \uf02d x \uf02d \uf0fa \uf0fb 4 3 \uf0ea \uf0fa \uf0ea \uf0eb \uf0fb \uf0fa \uf0eb 8 3 \uf061\uf03d\uf070\uf02d \uf05c\uf0203\uf061 = 3\uf070 \u2013 8 \uf05c\uf0209\uf061 = 9\uf070 \u2013 24 \uf05c\uf020\uf062 = 9, \uf067 = \u2013 24 \uf05c|\uf062 \u2013 \uf067| = 33",
+    "bounds": {
+      "top": 136.68464000000006,
+      "bottom": 632.4846399999999,
+      "left": 304.87,
+      "right": 560.16
+    },
+    "page": 1,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 4,
+    "question_text": "4. If the domain of the function log 18x \uf02d x \uf02d 77 \uf028 \uf029 2 5 is  (\uf061\uf02c\uf062)  and  the  domain  of  the  function \uf028 \uf029 \uf0e6 2x 2 \uf02b 3x \uf02d 2 \uf0f6 x \uf02d 1 \uf0e7 2 \uf0f7 log \uf0e7 \uf0f7 x \uf02d 3x \uf02d 4 \uf0e8 \uf0f8 is (\uf067\uf02c\uf064), then \uf0612 + \uf0622 + \uf0672 is equal to :",
+    "options": {
+      "(1)": "195",
+      "(2)": "174",
+      "(3)": "186",
+      "(4)": "179"
+    },
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 639.4008385922593,
+      "bottom": 781.66464,
+      "left": 304.87,
+      "right": 562.8000000000001
+    },
+    "page": 1,
+    "side": "Part 2",
+    "images": [
+      "page1_q4_diagram.png"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question_text": "5. Let the function f(x) = (x2 \u2013 1)|x2 \u2013 ax + 2| + cos|x| be not differentiable at the two points x = \uf061 = 2 and x = \uf062. Then the distance of the point (\uf061\uf02c\uf062) from the line 12x + 5y + 10 = 0 is equal to : \uf05cwe have to check only for |x 2 \u2013ax + 2| 2 \u2013 ax + 2 = 0 One root is given, \uf061 = 2 \uf05c 4 \u2013 2a + 2 = 0 a = 3 \uf05c other root \uf062 = 1 but for x = 1 f(x) is differentiable (Drop) \uf05c Not differentiable at x",
+    "options": {
+      "(1)": "3   3",
+      "(2)": "4",
+      "(3)": "2",
+      "(4)": "5"
+    },
+    "answer": null,
+    "solution": "cos|x| is always differentiable",
+    "bounds": {
+      "top": 428.94232,
+      "bottom": 782.86464,
+      "left": 35.39999999999999,
+      "right": 290.71109552
+    },
+    "page": 2,
+    "side": "Part 1",
+    "images": [
+      "page2_q5_diagram.png"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question_text": "7. Let S = N \uf0c8\uf020\uf07b\uf030\uf07d\uf02e\uf020Define a relation R from S to R by : \uf028 \uf029 \uf0ec \uf0e6 2 \uf0f6 \uf0fc R \uf03d x,y :log y \uf03d xlog ,x \uf0ce S,y \uf0ce R . \uf0ed \uf0e7 \uf0f7 \uf0fd \uf0e8 5 \uf0f8 \uf0ee \uf0fe e e Then, the sum of all the elements in the range of R is equal to 2 3 9 2",
+    "options": {
+      "(1)": "3",
+      "(2)": "5",
+      "(3)": "10",
+      "(4)": "5"
+    },
+    "answer": "(2)",
+    "solution": "S = {0, 1, 2, 3 \u2026..} log ey = xlog e \uf0e6 2 \uf0f6 \uf0e8 5 \uf0f8 \uf0e7 \uf0f7 \uf0de\uf020 y \uf03d x \uf0e6 2 \uf0f6 5 \uf0e7 \uf0f7 \uf0e8 \uf0f8",
+    "bounds": {
+      "top": 480.53464,
+      "bottom": 774.9267685971531,
+      "left": 304.87,
+      "right": 562.7999999999998
+    },
+    "page": 2,
+    "side": "Part 2",
+    "images": [
+      "page2_q7_diagram.png"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question_text": "8. Let the line x + y = 1 meet the axes of x and y at A and B, respectively. A right angled triangle AMN is inscribed in the triangle OAB, where O is the origin and the points M and N lie on the lines OB and AB, respectively. If the area of the triangle AMN is  of the area of the triangle OAB and 4 9 AN : NB = \uf06c : 1, then the sum of all possible value(s)of is \uf06c: 2 6 2",
+    "options": {
+      "(1)": "1",
+      "(2)": "13",
+      "(3)": "5",
+      "(4)": "2"
+    },
+    "answer": "(4)",
+    "solution": " N M O B \uf071\uf020 45\u00ba\u2013\uf071\uf020 A Area of \uf044AOB = 1 2 Area of \uf044AMN = 4 1 2 9 2 9 \uf0b4 \uf03d Equation of AB is x + y = 1 OA = 1,  AM = sec(45\u00b0 \u2013 \uf071) AN = sec(45\u00b0 \u2013 \uf071) cos\uf071 MN = sec(45\u00b0 \u2013 \uf071) sin\uf071\uf020",
+    "bounds": {
+      "top": 272.79463999999996,
+      "bottom": 769.54464,
+      "left": 35.39999999999998,
+      "right": 293.1526399999999
+    },
+    "page": 3,
+    "side": "Part 1",
+    "images": [
+      "page3_q8_diagram.png"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question_text": "9. If \uf061x + \uf062y = 109 is the equation of the chord of the ellipse  \uf02b \uf03d 1 , whose mid point is  , , 2 2 x y \uf0e6 5 1 \uf0f6 9 4 2 2 \uf0e7 \uf0f7 \uf0e8 \uf0f8 then \uf061 + \uf062 is equal to",
+    "options": {
+      "(1)": "37",
+      "(2)": "46",
+      "(3)": "58",
+      "(4)": "72"
+    },
+    "answer": "(3)",
+    "solution": " (0, 2) (3, 0) M  \uf0e8 2 2 \uf0f8 5 1 , \uf0e6 \uf0f6 \uf0e7 \uf0f7 Equation of chord T = S 1 5 \uf0e6 x \uf0f6 1 \uf0e6 y \uf0f6 25 1 2 \uf0e8 9 \uf0f8 2 \uf0e8 4 \uf0f8 36 16 \uf02b \uf03d \uf02b \uf0e7 \uf0f7 \uf0e7 \uf0f7 5x y 100 \uf02b 9 109 18 8 144 144 \uf0de \uf02b \uf03d \uf03d \uf0de\uf020\uf02040x + 18y = 109 \uf0de\uf020\uf020\uf061 = 40, \uf062 = 18 \uf0de\uf020\uf020\uf061 + \uf062 = 58",
+    "bounds": {
+      "top": 198.00464,
+      "bottom": 647.7246399999999,
+      "left": 304.87,
+      "right": 562.8
+    },
+    "page": 3,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 10,
+    "question_text": "10. If all the words with or without meaning made using all the letters of the word \u201cKANPUR\u201d are arranged as in a dictionary, then the word at 440th position in this arrangement, is :",
+    "options": {
+      "(1)": "PRNAKU",
+      "(2)": "PRKANU",
+      "(3)": "PRKAUN",
+      "(4)": "PRNAUK"
+    },
+    "answer": "(3)",
+    "solution": "",
+    "bounds": {
+      "top": 657.5646399999999,
+      "bottom": 787.0646399999999,
+      "left": 304.87,
+      "right": 560.1599600000001
+    },
+    "page": 3,
+    "side": "Part 2",
+    "images": [
+      "page3_q10_diagram.png"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question_text": "11. Let \uf061\uf02c\uf062 (\uf061 \uf0b9 \uf062) be the values of m, for which the equations x + y + z = 1; x + 2y + 4z = m and x + 4y + 10z = m2 have infinitely many solutions. Then the value of  \uf0e5 n \uf061 \uf02b n \uf062  is equal to : \uf028 \uf029 10 n \uf03d 1",
+    "options": {
+      "(1)": "440",
+      "(2)": "3080",
+      "(3)": "3410",
+      "(4)": "560"
+    },
+    "answer": "(1)",
+    "solution": "\uf044\uf03d 1 2 4 = 1(20 \u2013 16) \u2013 1(10 \u2013 4) + 1(4 \u2013 2) 1 1 1 1 4 10 = 4 \u2013 6 + 2 = 0 For infinite solutions \uf044 x = \uf044 y = \uf044 z = 0 m2 \u2013 3x + 2 = 0 m = 1, 2 \uf061= 1, \uf062 = 2 \uf05c  (n \uf061 \uf02b n \uf062 ) \uf03d n 1 \uf02b n 2 10 10 10 n \uf03d 1 n \uf03d 1 n \uf03d 1 \uf0e5 \uf0e5 \uf0e5 = 10(11) 10(11)(21) 2 6 \uf02b = 55 + 385 = 440",
+    "bounds": {
+      "top": 340.1146399999999,
+      "bottom": 767.02464,
+      "left": 35.39999999999999,
+      "right": 290.56590559999995
+    },
+    "page": 4,
+    "side": "Part 1",
+    "images": [
+      "page4_q11_diagram.png"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question_text": "13. Let P be the foot of the perpendicular from the point (1, 2, 2) on the line L :  \uf03d \uf03d . x \uf02d 1 y \uf02b 1 z \uf02d 2 1 \uf02d 1 2 Let the line  , \uf06c\uf020\uf0ce\uf020R, \uf028 \u02c6 \u02c6 \u02c6 \uf029 \uf028 \u02c6 \u02c6 \u02c6 \uf029 r \uf03d \uf02d i \uf02b j \uf02d 2k \uf02b\uf06c i \uf02d j \uf02b k intersect the line L at Q. Then 2(PQ)2 is equal to:",
+    "options": {
+      "(1)": "27",
+      "(2)": "25",
+      "(3)": "29",
+      "(4)": "19"
+    },
+    "answer": "(1)",
+    "solution": "",
+    "bounds": {
+      "top": 603.0846399999999,
+      "bottom": 753.8246399999999,
+      "left": 304.87,
+      "right": 562.8
+    },
+    "page": 4,
+    "side": "Part 2",
+    "images": [
+      "page4_q13_diagram.png"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question_text": "14. Let a circle C pass through the points (4, 2) and (0, 2), and its centre lie on 3x + 2y + 2 = 0. Then the length of the chord, of the circle C, whose mid- point is (1, 2), is: 4 2 2 2",
+    "options": {
+      "(1)": "3",
+      "(2)": "2 3",
+      "(3)": ""
+    },
+    "answer": "(2)",
+    "solution": "",
+    "bounds": {
+      "top": 657.92464,
+      "bottom": 787.78464,
+      "left": 35.4,
+      "right": 290.52648767999983
+    },
+    "page": 5,
+    "side": "Part 1",
+    "images": [
+      "page5_q14_diagram.png"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question_text": "15. Let A = [a ij] be a 2 \u00d7 2 matrix such that a ij \uf0ce {0, 1} for all i and j. Let the random variable X denote the possible values of the determinant of the matrix A. Then, the variance of X is: 4 8 8 4",
+    "options": {
+      "(1)": "1",
+      "(2)": "3",
+      "(3)": "5",
+      "(4)": "3"
+    },
+    "answer": "(2)",
+    "solution": "A \uf03d 11 12 21 22 a a a a = a 11 a 22 \u2013 a 21 a 12 = {\u20131, 0, 1} 2 i i i 1 i \uf0e5 PX \uf03d 0 \uf0e5 PX 2 \uf03d i i i i x P PX PX 3 3 3 \uf02d 1 \uf02d 16 16 16 10 0 0 0 16 3 3 3 1 16 16 16 3 8 \uf05c\uf020var(x) = \uf0e5 PX 2 \uf02d ( \uf0e5 PX ) 2 i i i i = 3 3 \uf02d 0 \uf03d 8 8",
+    "bounds": {
+      "top": 353.07464,
+      "bottom": 779.42213447155,
+      "left": 304.87,
+      "right": 560.14820272
+    },
+    "page": 5,
+    "side": "Part 2",
+    "images": [
+      "page5_q15_diagram.png"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question_text": "16. Bag 1 contains 4 white balls and 5 black balls, and Bag 2 contains n white balls and 3 black balls. One ball is drawn randomly from Bag 1 and transferred to Bag 2. A ball is then drawn randomly from Bag",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 64.42463999999995,
+      "bottom": 134.52463999999986,
+      "left": 35.4,
+      "right": 290.5386096
+    },
+    "page": 6,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 2,
+    "question_text": "2. If the probability, that the ball drawn is white, is 29/45, then n is equal to:",
+    "options": {
+      "(1)": "3",
+      "(2)": "4",
+      "(3)": "5",
+      "(4)": "6"
+    },
+    "answer": "(4)",
+    "solution": "Bag 1 = {4W, 5B} Bag 2 = {nW, 3B} \uf0e6 W \uf0f6 29 P \uf03d Bag2 45 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0de\uf020 P \uf0e7 \uf0f7 \uf0b4 P \uf0e7 \uf0f7 \uf02b P \uf0e7 \uf0f7 \uf0b4 P \uf0e7 \uf0f7 \uf03d 1 2 1 2 \uf0e6 W \uf0f6 \uf0e6 W \uf0f6 \uf0e6 B \uf0f6 \uf0e6 W \uf0f6 29 B B B B 45 \uf0e8 \uf0f8 \uf0e8 \uf0f8 \uf0e8 \uf0f8 \uf0e8 \uf0f8 4 n \uf02b 1 5 n 29 9 n \uf02b 4 9 n \uf02b 4 45 \uf0b4 \uf02b \uf0b4 \uf03d n \uf03d 6",
+    "bounds": {
+      "top": 143.16463999999985,
+      "bottom": 413.5171771639999,
+      "left": 35.400000000000006,
+      "right": 290.45062079999985
+    },
+    "page": 6,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 17,
+    "question_text": "17. The remainder, when 7103 is divided by 23, is equal to:",
+    "options": {
+      "(1)": "14",
+      "(2)": "9",
+      "(3)": "17",
+      "(4)": "6"
+    },
+    "answer": "(1)",
+    "solution": "7103 = 7 (7102) = 7 (343)34 = 7 (345 \u2013 2)34 7103 = 23K 1 + 7.234 Now 7.234 = 7 . 22 . 232 = 28 . (256)4 = 28 (253 + 3)4 \uf05c28 \u00d7 81 \uf0de (23 + 5) (69 + 12) 23K 2 + 60 \uf05cRemainder = 14",
+    "bounds": {
+      "top": 422.46232,
+      "bottom": 668.489518028,
+      "left": 35.4,
+      "right": 290.55701696
+    },
+    "page": 6,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 18,
+    "question_text": "18. Let  f x \uf03d \uf0f2 t t \uf02d 9t \uf02b 20 dt, 1 \uf0a3 x \uf0a3 5. If the \uf028 \uf029 2 \uf028 \uf029 x 0 range of f is [\uf061, \uf062], then 4(\uf061 + \uf062) equals:",
+    "options": {
+      "(1)": "157",
+      "(2)": "253",
+      "(3)": "125",
+      "(4)": "154"
+    },
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 679.9029328675182,
+      "bottom": 789.3446399999999,
+      "left": 35.4,
+      "right": 290.63963312000004
+    },
+    "page": 6,
+    "side": "Part 1",
+    "images": [
+      "page6_q18_diagram.png"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question_text": "19. Let \u02c6 a be a unit vector perpendicular to the vectors \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 b \uf03d i \uf02d 2j \uf02b 3k  and  c \uf03d 2i \uf02b 3j \uf02d k , and makes an angle of  cos \uf02d with the vector  i \uf02b j \uf02b k . If  a \uf02d 1 \u02c6 \u02c6 \u02c6 \u02c6 \uf0e6 1 \uf0f6 \uf0e8 3 \uf0f8 \uf0e7 \uf0f7 makes an angle of  with the vector  i \uf02b\uf061 j \uf02b k , 3 \uf070 \u02c6 \u02c6 \u02c6 then the value of \uf061 is : \uf02d 6 3",
+    "options": {
+      "(1)": "\uf02d 3",
+      "(2)": "6",
+      "(3)": ""
+    },
+    "answer": "(3)",
+    "solution": "Let  v \uf03d i \uf02b j \uf02b k \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 i j k b \uf0b4 c \uf03d 1 \uf02d 2 3 2 3 \uf02d 1 \u02c6 \u02c6 \u02c6 \uf03d\uf02d 7i \uf02b 7j \uf02b 7k \u02c6 \u02c6 \u02c6 \uf03d\uf02d 7(i\u2013 j\u2013k) Now  a \uf03d or \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 i \uf02d j \uf02d k \uf02d i \uf02b j \uf02b k \u02c6 3 3 \uf0af \uf0af a.v \u02c6 1 \uf02d 1 \uf02d 1 \uf02d 1 cos \uf071\uf03d \uf03d \uf03d cos \uf071\uf03d \uf03d \uf03d v 3 v 3 3 3 3  a.v \u02c6 \uf02d 1 \uf02b 1 \uf02b 1 1 (rejected) \u02c6 \u02c6 \u02c6 i \uf02d j \uf02d k \uf0de a \u02c6 \uf03d 3",
+    "bounds": {
+      "top": 298.80892289638655,
+      "bottom": 788.3982932020878,
+      "left": 304.87,
+      "right": 559.97390896
+    },
+    "page": 6,
+    "side": "Part 2",
+    "images": [
+      "page6_q19_diagram.png"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question_text": "20. If for the solution curve y = f(x) of the differential equation  \uf02b tanx y \uf03d , \uf028 \uf029 dx \uf028 \uf0292 dy 2 \uf02b secx 1 \uf02b 2secx \uf0e6 \uf02d\uf070 \uf070 \uf0f6 \uf0e6 \uf070 \uf0f6 3 \uf0e6 \uf070 \uf0f6 x \uf0ce , ,f \uf03d , then f \uf0f8 is equal to: \uf0e8 2 2 \uf0f8 \uf0e8 3 \uf0f8 10 \uf0e8 4 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf028 \uf029 \uf028 \uf029 9 3 \uf02b 3 3 \uf02b 1 10 4 \uf02b 3 10 4 \uf02b 3 2 2 14",
+    "options": {
+      "(1)": "",
+      "(3)": "5 \uf02d 3",
+      "(4)": "4 \uf02d 2"
+    },
+    "answer": "(4)",
+    "solution": "If  e \uf03d e n(secx) \uf03d secx \uf0f2 tanxdx \uf05cy . sec x = \uf0f2 sec x dx (1 \uf02b 2secx) 2 \uf0ec 2 \uf02b secx \uf0fc \uf0ed \uf0fd \uf0ee \uf0fe \uf020 \uf03d\uf020 \uf0f2 dx Let cos x = (cosx \uf02b 2) 2 2 2cosx \uf02b 1 1 \uf02d t 2 1 \uf02b t =  \uf0f2 2 2 2 \uf0e6 1 \uf02d t 2 \uf0f6 1 \uf02b t 2 \uf0e6 1 \uf02d t \uf0f6 2 \uf02b 1 1 \uf02b t 2dt \uf02b 2 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e7 \uf0f7 \uf0e8 \uf0f8 =  \uf0f2 \uf0b4 2dt 2 2 2 2 2 2 \uf02d 2t \uf02b 1 \uf02b t (1 \uf02d t \uf02b 2 \uf02b 2t ) =  2 \uf0f2 dt 2 2 2 3 \uf02d t (t \uf02b 3) Let t + 3 t = u t 2 3 1 \uf02d dt \uf03d du \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 = \u2013 2  \uf0f2 2 du u",
+    "bounds": {
+      "top": 223.92463999999995,
+      "bottom": 787.6219003122524,
+      "left": 35.4,
+      "right": 290.3179752
+    },
+    "page": 7,
+    "side": "Part 1",
+    "images": [
+      "page7_q20_diagram.png"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question_text": "2. \uf03d \uf02b c 1 10 \uf02b 3 3 3 3 2 3",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 194.7943039792758,
+      "bottom": 250.2777555012234,
+      "left": 335.0112142825,
+      "right": 429.81469534435
+    },
+    "page": 7,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 2,
+    "question_text": "2. \uf03d \uf02b c \uf0de C = 0 10 10 At x =   =  2 \u2013 1 4 2 \uf070 , t = tan x \uf05c  y. 2 \uf03d 2 3 2 \uf02d 1 \uf02b 2 \uf02d 1 \uf028 \uf029 2 2 \uf02d 1 y. 2 \uf03d 6 \uf02d 2 2 \uf028 \uf029 \uf028 \uf029 2 2 \uf02d 1 1 2 2 \uf02d 1 y \uf03d \uf03d \uf0b4 7 2 3 \uf02d 2 2 = 4 \uf02d 2 14 SECTION-B",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 246.03463999999997,
+      "bottom": 494.57463999999993,
+      "left": 333.19,
+      "right": 474.60972255106407
+    },
+    "page": 7,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 21,
+    "question_text": "21. If 24 \uf0f2 sin 4x \uf02d \uf02b 2sinx dx = 2\uf070 + \uf061, where \uf05b \uf05d 4 0 \uf0e8 12 \uf0f8 \uf070 \uf0e6 \uf070 \uf0f6 \uf0e7 \uf0f7 [\uf0d7] denotes the greatest integer function, then \uf061 is equal to _________.",
+    "options": {},
+    "answer": "(1)",
+    "solution": "\uf03d 24 \uf0f2 48 \uf02d sin 4x \uf02d \uf02b \uf0f2 sin 4x \uf02d \uf0e6 \uf070 \uf0f6 \uf070 /4 \uf0e6 \uf070 \uf0f6 0 \uf0e8 12 \uf0f8 \uf070 /48 \uf0e8 12 \uf0f8 \uf070 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf070 /4 6 0 \uf070 /6 \uf0af 1 \uf02b \uf0f2 [0]dx \uf02b \uf0f2 [2sinx]dx \uf070 1 \uf02d cos \uf02d cos \uf02d 1 \uf0e8 12 \uf0f8 \uf0e8 12 \uf0f8 \uf070 \uf070 \uf03d 24 \uf0ea \uf02d \uf0fa \uf02b \uf02d \uf0ea 4 4 \uf0fa 4 6 \uf0e9 \uf0e6 \uf070 \uf0f6 \uf0e6 \uf070 \uf0f6 \uf0f9 \uf0ea \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0fa \uf0ea \uf0fa \uf0eb \uf0fb \uf0e6 1 \uf070 \uf0f6 \uf03d 24 \uf02b \uf03d 2 \uf070\uf02b 12 2 12 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf061= 12",
+    "bounds": {
+      "top": 501.6420695553691,
+      "bottom": 793.18464,
+      "left": 304.87,
+      "right": 562.7358179199999
+    },
+    "page": 7,
+    "side": "Part 2",
+    "images": [
+      "page7_q21_diagram.png"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question_text": "22. If lim \uf0f2 3x \uf02b 5 dx \uf03d , then \uf061 is equal \uf028 \uf029 t 1 2 \uf0e6 1 \uf0f6 t \uf061 \uf0e6 8 \uf0f6 3 t \uf0ae 0 5e \uf0e8 5 \uf0f8 0 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 to _______.",
+    "options": {},
+    "answer": "(6)",
+    "solution": "1\uf0a5 form Now L \uf03d e t \uf0ae 0 \uf0e7 \uf02d 1 \uf0f7 \uf0f8 1 \uf0e6 1)\uf02b t 1 \uf0f6 0 1 (3x \uf02b 5) t \uf0e7 3(t \uf02b \uf0f7 \uf0e8 08 t \uf02b 1 \uf02d 5 t \uf02b 1 \uf02d 3t \uf02d 3 t \uf0ae \uf03d e 3t(t \uf02b 1) 8 n8 \uf02d 5 n5 \uf02d 3 \uf03d e 3 2/3 2/3 \uf0e6 8 \uf0f6 \uf0e6 64 \uf0f6 \uf061 \uf0e6 8 \uf0f6 5 5 5e 5 \uf03d \uf03d \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e8 \uf0f8 \uf0e8 \uf0f8 On comparing \uf061= 64",
+    "bounds": {
+      "top": 65.19712788226457,
+      "bottom": 363.63463999999993,
+      "left": 35.4,
+      "right": 293.31461407999996
+    },
+    "page": 8,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 23,
+    "question_text": "23. Let a 1, a 2, \u2026, a 2024 be an Arithmetic Progression such that a 1 + (a 5 + a 10 + a 15 + \u2026 + a 2020) + a 2024 =",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 371.91463999999996,
+      "bottom": 403.48231999999996,
+      "left": 35.39999999999999,
+      "right": 293.32955999999996
+    },
+    "page": 8,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 2233,
+    "question_text": "2233. Then a 1 + a 2 + a 3 + \u2026 + a 2024 is equal to ________.",
+    "options": {},
+    "answer": "(1)",
+    "solution": "a 1 + a 5 + a 10 + \u2026..+ a 2020 + a 2024 = 2233 In an A.P. the sum of terms equidistant from ends is equal. a 1 + a 2024 = a 5 + a 2020 = a 10 + a 2015 \u2026.. \uf0de\uf020203 pairs \uf0de\uf020203(a 1 + a 2024) = 2233 Hence, S 2024 =  (a \uf02b a ) 1 2024 2024 2 = 1012 \u00d7 11 = 11132",
+    "bounds": {
+      "top": 409.01464,
+      "bottom": 662.84464,
+      "left": 35.39999999999997,
+      "right": 293.30795599999993
+    },
+    "page": 8,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 24,
+    "question_text": "24. Let integers a, b \uf0ce [\u20133, 3] be such that a + b \uf0b9 0. Then  the  number  of  all  possible  ordered  pairs (a, b), for which   = 1 and  \uf077 z \uf02b\uf077 2 1 z \uf02d a z \uf02b b z \uf02b 1 \uf077 \uf077 2 \uf077 2 1 z \uf02b\uf077",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 671.4846399999999,
+      "bottom": 752.5488449541496,
+      "left": 35.4,
+      "right": 290.69000528
+    },
+    "page": 8,
+    "side": "Part 1",
+    "images": [
+      "page8_q24_diagram.png"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question_text": "25. Let y2 = 12x the parabola and S be its focus. Let PQ be a focal chord of the parabola such that (SP) (SQ) = 147 4 . Let C be the circle described taking PQ as a diameter. If the equation of a circle C is 64x2 + 64y2 \u2013 \uf061x \u2013 64 3y = \uf062, then \uf062 \u2013 \uf061 is equal to _________.",
+    "options": {},
+    "answer": "(1)",
+    "solution": " y2 = 12x   a = 3    SP \u00d7 SQ = 147 4 Let  P(3t2 , 6t)  and t 1t 2 = \u20131 (ends of focal chord) So,   Q , t 2 t \uf0e6 3 \uf02d 6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 S(3, 0) SP \u00d7 SQ = PM 1 \u00d7 QM 2",
+    "bounds": {
+      "top": 492.30232,
+      "bottom": 784.55232,
+      "left": 304.87,
+      "right": 562.76802208
+    },
+    "page": 8,
+    "side": "Part 2",
+    "images": [
+      "page8_q25_diagram.png"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question_text": "26. The difference of temperature in a material can convert  heat  energy  into  electrical  energy.  To harvest the heat energy, the material should have conductivity conductivity conductivity conductivity",
+    "options": {
+      "(1)": "low  thermal  conductivity  and  low  electrical",
+      "(2)": "high thermal conductivity and high electrical",
+      "(3)": "low thermal conductivity and high electrical",
+      "(4)": "high thermal conductivity and low electrical"
+    },
+    "answer": "(3)",
+    "solution": "See-back effect Low thermal conductivity High electrical conductivity",
+    "bounds": {
+      "top": 153.8446399999999,
+      "bottom": 414.77463999999947,
+      "left": 35.39999999999999,
+      "right": 290.6090654399999
+    },
+    "page": 10,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 27,
+    "question_text": "27. Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : With the increase in the pressure of an ideal gas, the volume falls off more rapidly in an  isothermal  process  in  comparison  to  the adiabatic process. Reason (R) : In isothermal process, PV = constant, while in adiabatic process PV\uf067 = constant. Here \uf067 is the ratio of specific heats, P is the pressure and V is the volume of the ideal gas. In the light of the above statements, choose the correct answer from the options given below : correct explanation of (A) explanation of (A).",
+    "options": {
+      "(1)": "Both",
+      "(3)": "Both"
+    },
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 420.6546399999995,
+      "bottom": 754.88464,
+      "left": 35.39999999999999,
+      "right": 290.70293792
+    },
+    "page": 10,
+    "side": "Part 1",
+    "images": [
+      "page10_q27_diagram.png"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question_text": "28. An electric dipole is placed at a distance of 2 cm from an infinite plane sheet having positive charge density  \uf073 0.  Choose  the  correct  option  from  the following. + + + + + \u2013q +q directed away from the sheet. towards the sheet. torque is zero.",
+    "options": {
+      "(1)": "Torque  on  dipole  is  zero  and  net  force  is",
+      "(2)": "Torque on dipole is zero and net force acts",
+      "(3)": "Potential  energy  of  dipole  is  minimum  and",
+      "(4)": "Potential energy and torque both are maximum"
+    },
+    "answer": "(3)",
+    "solution": " +  E + +  \u2013 +  \u2013q + + +q Here  E \uf03d , \uf074\uf03d P \uf0b4 E 0 2\uf073 \uf0ce \uf074\uf03d 0 U \uf03d\uf02d P \uf0d7 E U \uf0ae minimum",
+    "bounds": {
+      "top": 310.59464,
+      "bottom": 791.62464,
+      "left": 304.87,
+      "right": 560.16013312
+    },
+    "page": 10,
+    "side": "Part 2",
+    "images": [
+      "page10_q28_diagram.png"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question_text": "29. In  an  experiment  with  photoelectric  effect,  the stopping potential. incident light incident light \uf0e6 1 \uf0f6 \uf0e8 e \uf0e7 \uf0f7 the emitted photoelectrons incident light",
+    "options": {
+      "(1)": "increases with increase in the wavelength of the",
+      "(2)": "increases with increase in the intensity of the",
+      "(3)": "is \uf0f8 times the maximum kinetic energy of",
+      "(4)": "decreases with increase in the intensity of the"
+    },
+    "answer": "(3)",
+    "solution": "\uf03d W \uf02b eV S hC \uf06c \uf03d W \uf02b \uf028 K \uf029 \uf06c max hC \uf05c V \uf03d max S K e",
+    "bounds": {
+      "top": 64.30463999999995,
+      "bottom": 440.81463999999994,
+      "left": 35.4,
+      "right": 293.2823043199999
+    },
+    "page": 11,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 30,
+    "question_text": "30. A point charge causes an electric flux of \u20132 \u00d7 104 Nm2C\u20131 to  pass  through  a  spherical  Gaussian surface of 8.0 cm radius, centred on the charge. The value of the point charge is : (Given \uf0ce 0 = 8.85 \u00d7 10\u201312C2N\u20131m\u20132)",
+    "options": {
+      "(1)": "\u201317.7 \u00d7 10\u20138C",
+      "(2)": "\u201315.7 \u00d7 10\u20138C",
+      "(3)": "17.7 \u00d7 10\u20138C",
+      "(4)": "15.7 \u00d7 10\u20138C"
+    },
+    "answer": "(1)",
+    "solution": "\uf066\uf03d\uf02d 2 \uf0b4 10 4 2 Nm C r = 8.0 cm 0 0 q \uf066\uf03d \uf0de q \uf03d\uf0ce \uf066 \uf0ce = (8.85 \u00d7 10\u201312) \u00d7 (\u20132 \u00d7 104) q = \u2013 17.7 \u00d7 10\u20138 C",
+    "bounds": {
+      "top": 445.62232,
+      "bottom": 738.2046399999999,
+      "left": 35.4,
+      "right": 290.69
+    },
+    "page": 11,
+    "side": "Part 1",
+    "images": [
+      "page11_q30_diagram.png"
+    ]
+  },
+  {
+    "question_number": 32,
+    "question_text": "32. Two identical symmetric double convex lenses of focal length f are cut into two equal parts L 1, L 2 by AB plane and L 3, L 4 by XY plane as shown in figure respectively. The ratio of focal lengths of lenses L 1 and L 3 is A  B L 1  L 3 L 2 OR L 4 X Y",
+    "options": {
+      "(1)": "1 : 4",
+      "(2)": "1 : 1",
+      "(3)": "2 : 1",
+      "(4)": "1 : 2"
+    },
+    "answer": "(4)",
+    "solution": "",
+    "bounds": {
+      "top": 548.09464,
+      "bottom": 788.50464,
+      "left": 304.87,
+      "right": 560.0399971200001
+    },
+    "page": 11,
+    "side": "Part 2",
+    "images": [
+      "page11_q32_diagram.png"
+    ]
+  },
+  {
+    "question_number": 33,
+    "question_text": "33. A  plane  electromagnetic  wave  propagates along the + x direction in free space. The components of the electric field,  Eand magnetic field,  Bvectors associated with the wave in Cartesian frame are : x z y y",
+    "options": {
+      "(1)": "E y, B",
+      "(2)": "E y, B",
+      "(3)": "E x, B",
+      "(4)": "E z, B"
+    },
+    "answer": "(2)",
+    "solution": " x y z Direction of propogation \uf03d E \uf0b4 B",
+    "bounds": {
+      "top": 161.04463999999996,
+      "bottom": 464.69463999999994,
+      "left": 35.4,
+      "right": 293.31271999999996
+    },
+    "page": 12,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 34,
+    "question_text": "34.  O Glass  Glass A  B R/2 R P Air Two concave refracting surfaces of equal radii of curvature and refractive index 1.5 face each other in  air  as  shown  in  figure.  A  point object  O  is placed midway, between P and B. The separation between  the  images  of  O,  formed  by  each refracting surface is :",
+    "options": {
+      "(1)": "0.214R",
+      "(2)": "0.114R",
+      "(3)": "0.411R",
+      "(4)": "0.124R"
+    },
+    "answer": "(2)",
+    "solution": "",
+    "bounds": {
+      "top": 473.728472633552,
+      "bottom": 783.34464,
+      "left": 35.4,
+      "right": 293.16631727999993
+    },
+    "page": 12,
+    "side": "Part 1",
+    "images": [
+      "page12_q34_diagram.png"
+    ]
+  },
+  {
+    "question_number": 1,
+    "question_text": "1.5 1 0.5 V R \uf02d R 2 \uf02b \uf03d",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 114.91475170413275,
+      "bottom": 154.99236346722273,
+      "left": 334.85528422780004,
+      "right": 396.30382177679496
+    },
+    "page": 12,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 1,
+    "question_text": "1.5 1 2 V 2R R \uf03d\uf02d \uf02d B",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 161.14962770985278,
+      "bottom": 214.43071089472357,
+      "left": 334.84927255820804,
+      "right": 401.8946120007651
+    },
+    "page": 12,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 1,
+    "question_text": "1.5 \uf02d 5 \uf03d \uf0de V \uf03d\uf02d 0.6R V 2R For A",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 194.2533947696237,
+      "bottom": 237.12464,
+      "left": 333.19,
+      "right": 441.3088904775512
+    },
+    "page": 12,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 1,
+    "question_text": "1.5 2 0.5 V 3R \uf02d R \uf02b \uf03d",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 243.3496277195569,
+      "bottom": 270.24699830561156,
+      "left": 334.84418965504,
+      "right": 399.6242715119377
+    },
+    "page": 12,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 1,
+    "question_text": "1.5 1 2 V 2R 3R \uf03d\uf02d \uf02d",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 276.5996276629935,
+      "bottom": 303.49699841146935,
+      "left": 334.83719284230403,
+      "right": 405.8513903062622
+    },
+    "page": 12,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 1,
+    "question_text": "1.5 7 V 6R \uf03d\uf02d A 9 V \uf03d\uf02d R 7 Distance between images \uf0e6 9 \uf0f6 \uf03d 2R \uf02d 0.6R \uf02b R \uf0f8= 0.114 R 7 \uf0e7 \uf0f7 \uf0e8",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 309.6996279894893,
+      "bottom": 437.33464,
+      "left": 333.19,
+      "right": 474.94004079999996
+    },
+    "page": 12,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 35,
+    "question_text": "35. Two bodies A and B of equal mass are suspended from two massless springs of spring constant k 1 and  k 2,  respectively.  If  the  bodies  oscillate vertically such that their amplitudes are equal, the ratio  of  the  maximum  velocity  of  A  to  the maximum velocity of B is 2 2 k k k k 1 1 k k k k",
+    "options": {
+      "(1)": "1",
+      "(2)": "1",
+      "(3)": "2",
+      "(4)": "2"
+    },
+    "answer": "(1)",
+    "solution": "V 1 = A 1\uf077 1 V 2 = A 2\uf077 2 A 1 = A 2 1 1 \uf03d 1 \uf03d 2 2 2 K V \uf077 m V \uf077 K m 1 \uf03d 1 2 2 V K V K",
+    "bounds": {
+      "top": 442.73464,
+      "bottom": 783.5082635529409,
+      "left": 304.87,
+      "right": 560.16
+    },
+    "page": 12,
+    "side": "Part 2",
+    "images": [
+      "page12_q35_diagram.png"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question_text": "36. Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : A  B  C v A = 5  v B = 2  v C = 4 Three identical spheres of same mass undergo one dimensional motion as shown in figure with initial velocities v A = 5 m/s, v B = 2 m/s, v C = 4 m/s If we wait  sufficiently  long  for  elastic  collision  to happen, then v A = 4 m/s, v B = 2 m/s, v C = 5 m/s will be the final velocities. Reason  (R)  :  In  an  elastic  collision  between identical  masses,  two  objects  exchange  their velocities. In the light of the above statements, choose the correct answer from the options given below : correct explanation of (A) explanation of (A).",
+    "options": {
+      "(1)": "Both",
+      "(3)": "Both"
+    },
+    "answer": "(4)",
+    "solution": "In  elastic  collision  for  same  mass,  velocities interchange A  B  A  B V A = 5  V B = 2  V' A = 2  V' B = 5 Before collision  After collision B  C  B  C V' B = 5  V C = 4  V\" B = 4  V' C = 5 Before collision  After collision V' A = 2m/s  V\" B = 4m/s  V' C = 5m/s",
+    "bounds": {
+      "top": 64.30463999999995,
+      "bottom": 776.38464,
+      "left": 35.39999999999996,
+      "right": 293.29592479999997
+    },
+    "page": 13,
+    "side": "Part 1",
+    "images": [
+      "page13_q36_diagram.png"
+    ]
+  },
+  {
+    "question_number": 38,
+    "question_text": "38. A convex lens mode of glass (refractive index =",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 416.93464,
+      "bottom": 427.97463999999997,
+      "left": 304.87,
+      "right": 559.9103751999999
+    },
+    "page": 13,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 1,
+    "question_text": "1.5)  has focal  length  24 cm in air. When  it  is totally immersed in water (refractive index = 1.33), its focal length changes to",
+    "options": {
+      "(1)": "72 cm",
+      "(2)": "96 cm",
+      "(3)": "24 cm",
+      "(4)": "48 cm"
+    },
+    "answer": "(2)",
+    "solution": "\uf03d \uf02d 1 \uf02d S 1 2 1 \uf06d 1 1 8 \uf06d R R \uf0e6 \uf0f6\uf0e9 \uf0f9 \uf0e7 \uf0f7\uf0ea \uf0fa \uf0e8 \uf0f8 \uf0eb \uf0fb \uf028 \uf029 1 \uf0e9 2 \uf0f9 \uf03d 1.5 \uf02d 1 \u2026 (i) 24 \uf0eb R \uf0fb \uf0ea \uf0fa 1 \uf0e6 1.5 \uf0f6\uf0e6 2 \uf0f6 \uf03d \uf02d 1 f' 1.33 R \uf0e7 \uf0f7\uf0e7 \uf0f7 \uf0e8 \uf0f8\uf0e8 \uf0f8 1 1.5 \uf0b4 3 2 \uf03d \uf02d 1 \u2026 (ii) f' \uf0e8 4 \uf0f8 R \uf0e6 \uf0f6 \uf0e7 \uf0f7 (i)divided by (ii) f' \uf03d 4 24 f' = 96 cm",
+    "bounds": {
+      "top": 434.33464,
+      "bottom": 769.78464,
+      "left": 304.87,
+      "right": 559.9106070400001
+    },
+    "page": 13,
+    "side": "Part 2",
+    "images": [
+      "page13_q1_diagram.png"
+    ]
+  },
+  {
+    "question_number": 39,
+    "question_text": "39. A capacitor, C 1 = 6\uf06dF is charged to a potential difference of V 0 = 5V using a 5V battery. The battery is removed and another capacitor, C 2 = 12 \uf06dF is inserted in place of the battery. When the switch \u2018S\u2019 is closed, the charge flows between the capacitors  for  some  time  until  equilibrium condition is reached. What are the charges (q 1 and q 2) on the capacitors C 1 and C 2 when equilibrium condition is reached. C C 2 1 S",
+    "options": {
+      "(1)": "q 1 = 15 \uf06dC, q 2 = 30 \uf06dC",
+      "(2)": "q 1 = 30 \uf06dC, q 2 = 15 \uf06dC",
+      "(3)": "q 1 = 10 \uf06dC, q 2 = 20 \uf06dC",
+      "(4)": "q 1 = 20 \uf06dC, q 2 = 10 \uf06dC"
+    },
+    "answer": "(3)",
+    "solution": "q' C 1=6\u00b5F  \u2013 5V=V C 2 =12\u00b5F S +  0 \u2013q' 0 t=0 1 1 1 q' 1 = 6 \u00d7 5 = 30\u00b5C Finally +  +  q 2=12V C S \u2013 \u2013 V C q 1=6V C q 1=\u20136V C  q 2=\u201312V C 6V C + 12V C = 30 + 0 18V C = 30 C 30 5 V \uf03d \uf03d Volt 18 3 1 6 \uf0b4 5 \uf0de q \uf03d \uf03d 10 \uf06d C 3 2 12 3\uf0b4 5 \uf0de q \uf03d \uf03d 20 \uf06d C",
+    "bounds": {
+      "top": 65.14463999999998,
+      "bottom": 776.02464,
+      "left": 35.39999999999995,
+      "right": 293.3323563199999
+    },
+    "page": 14,
+    "side": "Part 1",
+    "images": [
+      "page14_q39_diagram.png"
+    ]
+  },
+  {
+    "question_number": 41,
+    "question_text": "41. Match List-I with List-II. List-I  List-II (A) Young\u2019s Modulus (I) ML\u20131T\u20131 (B) Torque (II) ML\u20131T\u20132 (C) Coefficient of Viscosity  (III) M\u20131L3T\u20132 (D) Gravitational Constant (IV) ML2T\u20132 Choose the correct answer from the options given below :",
+    "options": {},
+    "answer": "(4)",
+    "solution": "Y \uf03d \uf0de \uf03d ML \uf02d 1 T \uf02d 2  (II) (A) \uf05b \uf05d \uf02d 2 2 F MLT \uf0e6 \uf044 \uf0f6 L A \uf0e7 \uf0f7 \uf0e8 \uf0f8 (B)Torque \uf028 \uf074 \uf029 \uf03d r \uf0b4 F \uf028 \uf029 \uf02d 2 2 \uf02d 2 \uf074 \uf03d L \uf0b4 MLT \uf03d MLT (IV) (C)Coefficient of viscosity \uf0de  F \uf03d\uf068 A dV dt \uf068 \uf0aePa\u00b7sec \uf05b \uf05d \uf02d 1 \uf02d 1 MLT \uf02d 2 2 \uf068 \uf03d \uf0b4 T \uf03d ML T  (I) L (D)Gravitational constant (G) 1 2 2 GM M F \uf03d r \uf05b \uf05d \uf02d 1 3 \uf02d 2 F \uf0d7 r 2 MLT M\uf02d 2 \uf0b4 L 2 2 1 2 G \uf03d \uf03d \uf03d M LT  (III) m m",
+    "bounds": {
+      "top": 64.30463999999995,
+      "bottom": 603.257587725004,
+      "left": 35.4,
+      "right": 293.2054136
+    },
+    "page": 15,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 42,
+    "question_text": "42. Match List-I with List-II. List-I  List-II (A) Magnetic (I) Ampere induction meter2 (B) Magnetic (II) Weber intensity (C) Magnetic flux (III) Gauss (D) Magnetic (IV) Ampere moment meter",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 612.0846399999999,
+      "bottom": 739.4244411091722,
+      "left": 35.400000000000006,
+      "right": 243.0643722908978
+    },
+    "page": 15,
+    "side": "Part 1",
+    "images": [
+      "page15_q42_diagram.png"
+    ]
+  },
+  {
+    "question_number": 43,
+    "question_text": "43. The truth table for the circuit given below is : A Y B",
+    "options": {},
+    "answer": "(1)",
+    "solution": "",
+    "bounds": {
+      "top": 404.45464,
+      "bottom": 774.9446399999999,
+      "left": 304.87,
+      "right": 533.32308688
+    },
+    "page": 15,
+    "side": "Part 2",
+    "images": [
+      "page15_q43_diagram.png"
+    ]
+  },
+  {
+    "question_number": 44,
+    "question_text": "44. A cup of coffee cools from 90\u00b0C to 80\u00b0C in t minutes when the room temperature is 20\u00b0C. The time taken by the similar cup of coffee to cool from 80\u00b0C to 60\u00b0C at the same room temperature is : t t 5 13 10 13",
+    "options": {
+      "(1)": "13",
+      "(2)": "10",
+      "(3)": "13 5",
+      "(4)": "t"
+    },
+    "answer": "(1)",
+    "solution": "By using average form of Newton's law of cooling 90 \uf02d 80 \uf0e6 90 \uf02b 80 \uf0f6 \uf03d k \uf02d 20 \u2026 (i) t 2 \uf0e7 \uf0f7 \uf0e8 \uf0f8 80 \uf02d 60 80 \uf02b 60 \uf03d k \uf02d 20 \u2026 (ii) t' 2 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 (i)/(ii) 10 \uf0b4 t' 65 t \uf0b4 20 50 \uf03d 65 65 13 t' \uf03d \uf0b4 2t \uf03d t \uf03d t 50 25 5",
+    "bounds": {
+      "top": 242.91463999999996,
+      "bottom": 593.3969922011481,
+      "left": 35.4,
+      "right": 290.61132416
+    },
+    "page": 16,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 45,
+    "question_text": "45. The number of spectral lines emitted by atomic hydrogen that is in the 4th energy level, is",
+    "options": {
+      "(1)": "6",
+      "(2)": "0",
+      "(3)": "3",
+      "(4)": "1"
+    },
+    "answer": "(1)",
+    "solution": "n=2 n=4 n=3 n=1 Total possible transition = 6",
+    "bounds": {
+      "top": 599.60464,
+      "bottom": 771.8246399999999,
+      "left": 35.4,
+      "right": 290.4614841599999
+    },
+    "page": 16,
+    "side": "Part 1",
+    "images": [
+      "page16_q45_diagram.png"
+    ]
+  },
+  {
+    "question_number": 46,
+    "question_text": "46. The magnetic field inside a 200 turns solenoid of radius 10 cm is 2.9 \u00d7 10\u20134 Tesla. If the solenoid carries a current of 0.29 A, then the length of the solenoid is __________ \uf070 cm.",
+    "options": {},
+    "answer": "(8)",
+    "solution": "Assuming long solenoid 0 \uf0e6 N \uf0f6 B \uf03d\uf06d i \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf028 \uf02d 7 \uf029\uf028 \uf029\uf028 \uf029 \uf03d 0 \uf03d m \uf02d 4 4 \uf070\uf0b4 10 200 0.29 \uf06d Ni B 2.9 \uf0b4 10 = 8\uf070 cm",
+    "bounds": {
+      "top": 83.28463999999997,
+      "bottom": 247.2346399999999,
+      "left": 304.87,
+      "right": 560.0569264
+    },
+    "page": 16,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 47,
+    "question_text": "47. A parallel plate capacitor consisting of two circular plates  of  radius  10  cm  is  being  charged  by  a constant current of 0.15 A. If the rate of change of potential difference between the plates is 7 \u00d7 108 V/s then the integer value of the distance between the parallel plates is \u2013 Take, \uf0ce \uf03d 9 \uf0b4 10 \uf02d 12 , \uf070\uf03d \uf0f8 _________ \uf06dm. 0 m 7 \uf0e6 F 22 \uf0f6 \uf0e7 \uf0f7 \uf0e8",
+    "options": {},
+    "answer": "(1)",
+    "solution": "V \uf03d \uf03d \uf03d \uf028 \uf029 C \uf0e6 \uf0ce A \uf0f6 \uf0ce \uf070 r 2 0 0 Q it itd \uf0e8 d \uf0f8 \uf0e7 \uf0f7 \uf028 \uf029 \uf0ce \uf070 r 2 0 v \uf0de d \uf03d i \uf0e8 t \uf0f8 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf028 \uf02d 12 \uf029 \uf028 \uf029 2 \uf028 8 \uf029 \uf0e6 22 \uf0f6 9 \uf0b4 10 0.1 \uf0e8 7 \uf0f8 \uf03d 7 \uf0b4 10 m",
+    "bounds": {
+      "top": 250.1146399999999,
+      "bottom": 502.37175451541196,
+      "left": 304.87,
+      "right": 560.04
+    },
+    "page": 16,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 0,
+    "question_text": "0.15 \uf0e7 \uf0f7 d = 1320 \u00b5m",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 476.33147456128665,
+      "bottom": 521.5746399999999,
+      "left": 333.19,
+      "right": 413.367292995378
+    },
+    "page": 16,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 48,
+    "question_text": "48. A physical quantity Q is related to four observables a, b, c, d as follows :  Q \uf03d ab 4 cd where, a = (60 \u00b1 3)Pa; b = (20 \u00b1 0.1)m; c = (40 \u00b1 0.2) Nsm\u20132 and d = (50 \u00b1 0.1)m, then the percentage error in Q is  1000, x",
+    "options": {},
+    "answer": null,
+    "solution": "Q \uf03d 4 ab cd \uf044 Q \uf0e9 \uf044 a \uf044 b \uf044 c \uf044 d \uf0f9 \uf0de \uf0b4 100 \uf03d \uf02b 4 \uf02b \uf02b \uf0b4 100 Q a b c d \uf0ea \uf0fa \uf0eb \uf0fb x \uf0e9 3 0.1 0.2 0.1 \uf0f9 \uf0de \uf03d \uf02b 4 \uf02b \uf02b \uf0b4 100 1000 \uf0eb 60 \uf0e8 20 \uf0f8 \uf0e8 40 \uf0f8 50 \uf0fb \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf0ea \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0fa \uf0dex = 7700 where  x = ______. NTA Ans. (77)",
+    "bounds": {
+      "top": 524.4546399999999,
+      "bottom": 780.3446399999999,
+      "left": 304.87,
+      "right": 559.9626179200001
+    },
+    "page": 16,
+    "side": "Part 2",
+    "images": [
+      "page16_q48_diagram.png"
+    ]
+  },
+  {
+    "question_number": 49,
+    "question_text": "49. Two planets, A and B are orbiting a common star in circular orbits of radii R A and R B, respectively, with R B = 2R A. The planet B is  4 2 times more massive than planet A. The ratio  B \uf0f8 of angular A \uf0e6 L \uf0f6 L \uf0e7 \uf0f7 \uf0e8 momentum (L B) of planet B to that of planet A(L A) is closest to integer __________.",
+    "options": {},
+    "answer": "(8)",
+    "solution": "L = mv 0R =  m R \uf03d m GMR GM R here M is mass of star B B B A A A L m R L m R \uf03d 2 \uf03d 4 2 1 B \uf03d 8 A L L",
+    "bounds": {
+      "top": 64.30463999999995,
+      "bottom": 319.3627175729474,
+      "left": 35.39999999999997,
+      "right": 293.33001999999993
+    },
+    "page": 17,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 50,
+    "question_text": "50. Two cars P and Q are moving on a road in the same  direction.  Acceleration  of  car  P  increases linearly with time whereas car Q moves with a constant acceleration. Both cars cross each other at time  t  =  0,  for  the  first  time.  The  maximum possible  number  of  crossing(s)  (including  the crossing at t = 0) is ________ .",
+    "options": {},
+    "answer": "(3)",
+    "solution": "a P = kt, k is constant a Q = a, a is constant a Q/P = a Q \u2013 a P = a \u2013 kt as initial velocities are not mentioned in question, so will have to assume two cases. Case-I u Q/P and a Q/P in same direction u Q/P P Q a\u2013 Total number of crossing = 2 Case-II u Q/P and a Q/P in opposite direction u Q/P P Q  a\u2013kt  Total number of crossing = 3",
+    "bounds": {
+      "top": 334.95464,
+      "bottom": 776.38464,
+      "left": 35.4,
+      "right": 293.1442704
+    },
+    "page": 17,
+    "side": "Part 1",
+    "images": [
+      "page17_q50_diagram.png"
+    ]
+  },
+  {
+    "question_number": 51,
+    "question_text": "51. The  calculated  spin-only  magnetic  moments  of K 3[Fe(OH) 6] and K 4[Fe(OH) 6] respectively are :",
+    "options": {
+      "(1)": "4.90 and 4.90 B.M.",
+      "(2)": "5.92 and 4.90 B.M.",
+      "(3)": "3.87 and 4.90 B.M.",
+      "(4)": "4.90 and 5.92 B.M."
+    },
+    "answer": "(2)",
+    "solution": "",
+    "bounds": {
+      "top": 154.80463999999995,
+      "bottom": 266.4346399999997,
+      "left": 35.39999999999997,
+      "right": 290.52903791999995
+    },
+    "page": 18,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 52,
+    "question_text": "52. For hydrogen like species, which of the following graphs  provides  the  most  appropriate representation of E vs Z plot for a constant n ? [E : Energy of the stationary state, Z : atomic number, n = principal quantum number] +  + O  O E  E \u2013  \u2013 +  + O  O E  E \u2013  \u2013",
+    "options": {
+      "(1)": "Z",
+      "(2)": "Z",
+      "(3)": "Z",
+      "(4)": "Z"
+    },
+    "answer": "(2)",
+    "solution": "",
+    "bounds": {
+      "top": 271.9546399999997,
+      "bottom": 463.37463999999994,
+      "left": 35.39999999999997,
+      "right": 290.52766896
+    },
+    "page": 18,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 53,
+    "question_text": "53. Given below are two statements : Statement  (I)  :  In  partition  chromatography, stationary phase is thin film of liquid present in the inert support. Statement  (II)  :  In  paper  chromatography,  the material of paper acts as a stationary phase. In the light of the above statements, choose the correct answer from the options given below :",
+    "options": {
+      "(1)": "Both Statement I and Statement II are false",
+      "(2)": "Statement I is true but Statement II is false",
+      "(3)": "Both Statement I and Statement II are true",
+      "(4)": "Statement I is false but Statement II is true"
+    },
+    "answer": "(2)",
+    "solution": "Statement I is true. In  partition  chromatography,  stationary  phase  is thin liquid film present in the inert support. Statement II is false. Because stationary phase in paper chromatography is water.",
+    "bounds": {
+      "top": 468.77464,
+      "bottom": 781.06464,
+      "left": 35.4,
+      "right": 293.1331420800001
+    },
+    "page": 18,
+    "side": "Part 1",
+    "images": [
+      "page18_q53_diagram.png"
+    ]
+  },
+  {
+    "question_number": 54,
+    "question_text": "54. Identify the essential amino acids from below : (A)Valine (B)Proline (C)Lysine (D)Threonine (E)Tyrosine Choose the correct answer from the options given below :",
+    "options": {},
+    "answer": "(1)",
+    "solution": "Valine, Lysine and Threonine are essential amino acids.",
+    "bounds": {
+      "top": 137.7646400000001,
+      "bottom": 324.7546399999999,
+      "left": 304.86999999999995,
+      "right": 562.6507033599999
+    },
+    "page": 18,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 55,
+    "question_text": "55. Which among the following halides will generate the  most  stable  carbocation  in  Nucleophillic substitution reaction ? Br Br Ph  Br Ph Ph",
+    "options": {
+      "(1)": "",
+      "(2)": "Br",
+      "(3)": ""
+    },
+    "answer": "(4)",
+    "solution": "Stability order of carbocation Ph  \uf0c5 Ph Ph \uf0c5  \uf0c5 >  >  > \uf0c5",
+    "bounds": {
+      "top": 328.3546399999999,
+      "bottom": 520.8855951819023,
+      "left": 304.86999999999995,
+      "right": 559.9734110399999
+    },
+    "page": 18,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 56,
+    "question_text": "56. Consider the equilibrium CO(g) + 3H 2(g)   CH 4(g) + H 2O(g) If the pressure applied over the system increases by two fold at constant temperature then (A) Concentration  of  reactants  and  products increases. (B)Equilibrium will shift in forward direction. (C)  Equilibrium  constant  increases  since concentration of products increases. (D) Equilibrium  constant  remains  unchanged  as concentration  of  reactants  and  products  remain same. Choose the correct answer from the options given below :",
+    "options": {},
+    "answer": "(1)",
+    "solution": "",
+    "bounds": {
+      "top": 529.9746399999999,
+      "bottom": 784.30464,
+      "left": 304.87,
+      "right": 562.66191088
+    },
+    "page": 18,
+    "side": "Part 2",
+    "images": [
+      "page18_q56_diagram.png"
+    ]
+  },
+  {
+    "question_number": 57,
+    "question_text": "57. Given below are two statements : Statement (I) : NaCl is added to the ice at 0\u00b0C, present in the ice cream box to prevent the melting of ice cream. Statement (II) : On addition of NaCl to ice at 0\u00b0C, there is a depression in freezing point. In the light of the above statements, choose the correct answer from the options given below :",
+    "options": {
+      "(1)": "Statement I  is false but Statement II is true",
+      "(2)": "Both Statement I  and Statement II are true",
+      "(3)": "Both Statement I  and Statement II are false",
+      "(4)": "Statement I  is true but Statement II is false"
+    },
+    "answer": "(2)",
+    "solution": "",
+    "bounds": {
+      "top": 64.18463999999994,
+      "bottom": 291.51464,
+      "left": 35.4,
+      "right": 290.4725020799999
+    },
+    "page": 19,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 58,
+    "question_text": "58. Given below are two statements : Statement  (I)  :  On  nitration  of  m-xylene  with HNO 3,  H 2SO followed  by  oxidation,  4- 4 nitrobenzene-1, 3-dicarboxylic acid is obtained as the major product. Statement (II) : CH 3 group is o/p-directing while- NO 2 group is m-directing group. In the light of the above statements, choose the correct answer from the options given below :",
+    "options": {
+      "(1)": "Both Statement I  and Statement II are false",
+      "(2)": "Statement I  is false but Statement II is true",
+      "(3)": "Both Statement I  and Statement II are true",
+      "(4)": "Statement I  is true but Statement II is false"
+    },
+    "answer": "(3)",
+    "solution": "Statement-I CH CH 3 3 CH CH 3 3 HNO 3/H 2SO 4 NO 2 Oxidation  COOH COOH NO 2 (m-xylene)  Statement-II \u2013CH 3 group is o/p directing while \u2013NO 2 group is meta directing.",
+    "bounds": {
+      "top": 298.23464,
+      "bottom": 787.90464,
+      "left": 35.400000000000006,
+      "right": 290.64646736
+    },
+    "page": 19,
+    "side": "Part 1",
+    "images": [
+      "page19_q58_diagram.png"
+    ]
+  },
+  {
+    "question_number": 60,
+    "question_text": "60. Match List-I with List-II : List-I  List-II Applications  Batteries/Cell (A)  Transistors  (I) Anode - Zn/Hg ; Cathode - HgO + C (B)  Hearing aids  (II)  Hydrogen fuel cell (C)  (III) Invertors Anode \u2013 Zn; Cathode - Carbon (D)  (IV) Apollo  Anode \u2013 Pb ; space ship  2 Cathode \u2013 Pb | PbO Choose the correct answer from the options given below :",
+    "options": {},
+    "answer": "(1)",
+    "solution": "",
+    "bounds": {
+      "top": 308.19463999999994,
+      "bottom": 567.3246399999998,
+      "left": 304.86999999999995,
+      "right": 562.6619108799999
+    },
+    "page": 19,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 61,
+    "question_text": "61. O 2 gas will be evolved as a product of electrolysis of : (A) an aqueous solution of AgNO 3 using silver electrodes. (B) an aqueous solution of AgNO 3 using platinum electrodes. (C) a  dilute  solution  of  H 2SO 4  using  platinum electrodes. (D) a high concentration solution of H 2SO 4 using platinum electrodes. Choose the correct answer from the options given below :",
+    "options": {},
+    "answer": "(1)",
+    "solution": "",
+    "bounds": {
+      "top": 570.68464,
+      "bottom": 785.7446399999999,
+      "left": 304.86999999999995,
+      "right": 562.6619108799999
+    },
+    "page": 19,
+    "side": "Part 2",
+    "images": [
+      "page19_q61_diagram.png"
+    ]
+  },
+  {
+    "question_number": 62,
+    "question_text": "62. Identify  the  homoleptic  complexes  with  odd number of d electrons in the central metal. (A)[FeO 4]2\u2013  (B)[Fe(CN) 6]3\u2013 (C)[Fe(CN) (D)[CoCl 5NO]2\u2013  4]2\u2013 (E)[Co(H 2O) 3F 3] Choose the correct answer from the options given below :",
+    "options": {
+      "(4)": ""
+    },
+    "answer": "(1)",
+    "solution": "",
+    "bounds": {
+      "top": 64.06463999999994,
+      "bottom": 212.04463999999996,
+      "left": 35.4,
+      "right": 290.52776831999995
+    },
+    "page": 20,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 63,
+    "question_text": "63. Total number of sigma (\uf073) ______and pi(\uf070)_____ bonds respectively present in hex-1-en-4-yne are :",
+    "options": {
+      "(1)": "13 and 3",
+      "(2)": "11 and 3",
+      "(3)": "3 and 13",
+      "(4)": "14 and 3"
+    },
+    "answer": "(1)",
+    "solution": "C=C\u2013C\u2013C\uf0baC\u2013C\u2013H H H H H  H H  H \uf073bonds = 13 \uf070bonds = 3",
+    "bounds": {
+      "top": 216.84464000000003,
+      "bottom": 379.7146399999999,
+      "left": 35.400000000000006,
+      "right": 290.67941792
+    },
+    "page": 20,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 64,
+    "question_text": "64. If  C(diamond)\uf0aeC(graphite) + X kJ mol\u20131 C(diamond) + O 2(g) \uf0ae CO 2(g) + Y kJ mol\u20131 C(graphite) + O 2(g) \uf0ae CO 2(g) + Z kJ mol\u20131 At constant temperature. Then",
+    "options": {
+      "(1)": "X = Y + Z",
+      "(2)": "\u2013X = Y + Z",
+      "(3)": "X = \u2013Y + Z",
+      "(4)": "X = Y \u2013 Z"
+    },
+    "answer": "(4)",
+    "solution": "",
+    "bounds": {
+      "top": 383.03335999999996,
+      "bottom": 519.77464,
+      "left": 35.399999999999984,
+      "right": 282.95000000000005
+    },
+    "page": 20,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 65,
+    "question_text": "65. Given below are two statements : Statement  (I):  It  is  impossible  to  specify simultaneously with arbitrary precision, both the linear momentum and the position of a particle. Statement  (II)  :  If  the  uncertainty  in  the measurement  of  position  and  uncertainty  in measurement  of  momentum  are  equal  for  an electron, then the uncertainty in the measurement of velocity is \uf0b3  . h 1 \uf070 2m \uf0b4 In the light of the above statements, choose the correctanswer from the options given below :",
+    "options": {
+      "(1)": "Statement I is true but Statement II is false.",
+      "(2)": "Both Statement I and Statement II are true.",
+      "(3)": "Statement I is false but Statement II is true.",
+      "(4)": "Both Statement I and Statement II are false."
+    },
+    "answer": "(2)",
+    "solution": "",
+    "bounds": {
+      "top": 523.73464,
+      "bottom": 782.74464,
+      "left": 35.400000000000006,
+      "right": 293.11105103999995
+    },
+    "page": 20,
+    "side": "Part 1",
+    "images": [
+      "page20_q65_diagram.png"
+    ]
+  },
+  {
+    "question_number": 67,
+    "question_text": "67. Drug  X  becomes  ineffective  after  50% decomposition. The original concentration of drug in  a  bottle  was  16  mg/mL  which  becomes  4 mg/mL in 12 months. The expiry time of the drug in months is _____. Assume that the decomposition of the drug follows first order kinetics.",
+    "options": {
+      "(1)": "12",
+      "(2)": "2",
+      "(3)": "3",
+      "(4)": "6"
+    },
+    "answer": "(4)",
+    "solution": "",
+    "bounds": {
+      "top": 518.93464,
+      "bottom": 680.84464,
+      "left": 304.87,
+      "right": 559.9295862399999
+    },
+    "page": 20,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 68,
+    "question_text": "68. The type of oxide formed by the element among Li, Na, Be, Mg, B and Al that has the least atomic radius is : 3 2",
+    "options": {
+      "(1)": "A 2O",
+      "(2)": "AO",
+      "(3)": "AO",
+      "(4)": "A 2O"
+    },
+    "answer": "(1)",
+    "solution": "",
+    "bounds": {
+      "top": 687.32464,
+      "bottom": 787.18464,
+      "left": 304.87,
+      "right": 559.86348
+    },
+    "page": 20,
+    "side": "Part 2",
+    "images": [
+      "page20_q68_diagram.png"
+    ]
+  },
+  {
+    "question_number": 69,
+    "question_text": "69. First ionisation enthalpy values of first four group 15 elements are given below. Choose the correct value for the element that is a main component of apatite family :",
+    "options": {
+      "(1)": "1012 kJ mol\u20131",
+      "(2)": "1402 kJ mol\u20131",
+      "(3)": "834 kJ mol\u20131",
+      "(4)": "947 kJ mol\u20131"
+    },
+    "answer": "(1)",
+    "solution": "",
+    "bounds": {
+      "top": 64.18463999999994,
+      "bottom": 154.56463999999994,
+      "left": 35.4,
+      "right": 291.1017489599999
+    },
+    "page": 21,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 70,
+    "question_text": "70. Which one of the following, with HBr will give a phenol? CH 2  OCH 3 C H OCH O CH 3 OCH 3 O C  CH 3 CH CH",
+    "options": {
+      "(1)": "3",
+      "(3)": ""
+    },
+    "answer": "(2)",
+    "solution": "3 O  O CH 3  CH HBr \uf0c5 H S Br\uf021 N2 OH +CH 3Br Phenol SECTION-B",
+    "bounds": {
+      "top": 159.00464,
+      "bottom": 431.09463999999997,
+      "left": 35.4,
+      "right": 285.99169727999987
+    },
+    "page": 21,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 71,
+    "question_text": "71. Consider the following low-spin complexes K 3[Co(NO 2) 6], K 4[Fe(CN) 6], K 3[Fe(CN) 6], Cu 2[Fe(CN) 6] and Zn 2[Fe(CN) 6]. The sum of the spin-only magnetic moment values of complexes having yellow colour is _______ B.M. (answer is nearest integer)",
+    "options": {},
+    "answer": "(0)",
+    "solution": "Yellow coloured & low spin complex are K 3[Co(NO 2) 6] & K 4[Fe(CN) 6] (I) K 3[Co(NO 2) 6] Co+3 \uf0de [Ar]3d6 In presence of ligand field \uf0de [Ar] 3d  4s  4p d2sp3 hybridisation Magnetic moment =  n(n \uf02b 2) BM = 0 BM (II) K 4[Fe(CN) 6] Fe+2 \uf0de [Ar]3d6 In presence of ligand field \uf0de [Ar] 3d  4s  4p d2sp3 hybridisation Magnetic moment =  n(n \uf02b 2) BM = 0 BM",
+    "bounds": {
+      "top": 435.53464,
+      "bottom": 787.18464,
+      "left": 35.4,
+      "right": 287.08068288
+    },
+    "page": 21,
+    "side": "Part 1",
+    "images": [
+      "page21_q71_diagram.png"
+    ]
+  },
+  {
+    "question_number": 73,
+    "question_text": "73. In  the  Claisen-Schmidt  reaction  to  prepare, dibenzalacetone from 5.3 g benzaldehyde, a total of 3.51 g of product was obtained. The percentage yield in this reaction was ______ %.",
+    "options": {},
+    "answer": "(6)",
+    "solution": "2 Ph\u2013C\u2013H Strong base O",
+    "bounds": {
+      "top": 204.96463999999992,
+      "bottom": 326.0220966009539,
+      "left": 304.87,
+      "right": 559.9891139199999
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 5,
+    "question_text": "5.3 gm  O + Benzaldehyde \uf0df Ph  Ph Dibenzalacetone (Product)",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 298.1925576238822,
+      "bottom": 397.4771711823059,
+      "left": 337.60359931264003,
+      "right": 545.01159966208
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 3,
+    "question_text": "3.51 gm \uf0df (Actual) O Theoretical =  Mol 1 40 % yield = 0.015 \uf0b4 100 \uf0de 60% 1/40",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 279.40189536019784,
+      "bottom": 531.7457268854987,
+      "left": 333.19,
+      "right": 541.6548807218559
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 74,
+    "question_text": "74. In the sulphur estimation, 0.20 g of a pure organic compound  gave  0.40  g  of  barium  sulphate.  The percentage of sulphur in the compound is ____\u00d7 10\u20131 %. (Molar mass : O = 16, S = 32, Ba = 137 in g mol\u20131)",
+    "options": {},
+    "answer": "(2)",
+    "solution": "Organic Compound \uf0be\uf0ae BaSO 4",
+    "bounds": {
+      "top": 533.33464,
+      "bottom": 609.2833599999999,
+      "left": 304.86999999999995,
+      "right": 560.28
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 0,
+    "question_text": "0.20 gm   0.40 gm 4",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 610.16464,
+      "bottom": 643.2652214587123,
+      "left": 333.18999999999994,
+      "right": 524.58815167245
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 0,
+    "question_text": "0.40 mol(BaSO ) 233",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 623.7707739096508,
+      "bottom": 649.8022398650817,
+      "left": 451.890987213475,
+      "right": 529.4528162228271
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 0,
+    "question_text": "0.40 mol  (Sulphur) 233",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 652.3252021597142,
+      "bottom": 678.4019653474081,
+      "left": 449.07356199292,
+      "right": 537.82001776
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 0,
+    "question_text": "0.40 233 \u00d7 32 gm (sulphur) %S =   = 27.5% or 275 \u00d7 10\u20131 %",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 680.7707739096508,
+      "bottom": 740.38464,
+      "left": 333.18999999999994,
+      "right": 553.92000592
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 0,
+    "question_text": "0.40 \uf0b4 32 \uf0b4 100 233",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 709.737675532849,
+      "bottom": 736.0818453272091,
+      "left": 363.54891846922004,
+      "right": 428.13209221581405
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 0,
+    "question_text": "0.20",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 738.1334682702491,
+      "bottom": 749.1873699380691,
+      "left": 385.81571814100005,
+      "right": 405.0458283938544
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 75,
+    "question_text": "75. Total number of non bonded electrons present in 2 NO\uf02dion based on Lewis theory is _____ .",
+    "options": {},
+    "answer": "(1)",
+    "solution": "",
+    "bounds": {
+      "top": 750.34464,
+      "bottom": 791.62464,
+      "left": 304.87,
+      "right": 559.8191972799998
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": [
+      "page21_q75_diagram.png"
+    ]
+  }
+]

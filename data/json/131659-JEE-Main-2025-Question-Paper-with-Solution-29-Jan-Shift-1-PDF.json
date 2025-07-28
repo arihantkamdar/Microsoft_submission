@@ -1,0 +1,1614 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "1. Let the line x + y = 1 meet the circle x2 + y2 = 4 at the points A and B. If the line perpendicular to AB and passing through the mid point of the chord AB intersects the circle at C and D, then the area of the quadrilateral ADBC is equal to",
+    "options": {
+      "(1)": "3 7",
+      "(2)": "2 14",
+      "(3)": "5 7",
+      "(4)": "14"
+    },
+    "answer": "(2)",
+    "solution": " y y=x x A D B C By solving x = y with circle We get C( 2, 2) D(\u2013 2,\u2013 2) By solving x + y = 1 with circle x2 + y2 = 4 we set A \uf0e7 , \uf0f7 \uf0e6 1 \uf02b 7 1 \uf02d 7 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 2 2 &  B \uf0e7 , \uf0f7 \uf0e6 1 \uf02d 7 1 \uf02b 7 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 2 2 \uf05cArea of Quadrilateral ACBD = 2 \u00d7 Area of \uf044BCD =  2 \uf0b4 1 1 1 \uf02d 7 1 \uf02b 7 \uf02d 2 \u2013 2 1 2 2 1 2 2 2 = 2 14",
+    "bounds": {
+      "top": 152.59231999999997,
+      "bottom": 776.3996568668828,
+      "left": 35.459999999999994,
+      "right": 290.62758013999996
+    },
+    "page": 1,
+    "side": "Part 1",
+    "images": [
+      "page1_q1_diagram.png"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question_text": "2. Let M and m respectively be the maximum and the minimum values of \uf028 \uf029 2 2 2 2 sin 2 x cos 2 x 1 \uf02b 4sin4x 1 \uf02b sin x cos x 4sin4x f x \uf03d sin x 1 \uf02b cos x 4sin4x ,x \uf0ce R Then M4 \u2013 m4 is equal to :",
+    "options": {
+      "(1)": "1280",
+      "(2)": "1295",
+      "(3)": "1040",
+      "(4)": "1215"
+    },
+    "answer": "(1)",
+    "solution": "sin 2 x 1 \uf02b cos 2 x 4sin4x ,x \uf0ce R 1 \uf02b sin x cos x 4sin4x sin x cos x 1 \uf02b 4sin4x 2 2 2 2 R 2 \uf0ae R 2\u2013R 1 & R 3 \uf0ae R 3 \u2013 R 1 f(x) \uf02d 1 1 0 1 \uf02b sin 2 x cos 2 x 4sin4x \uf02d 1 0 1 Expand about R 1 , we get f(x) = 2 + 4sin4x \uf05cM = max value of f(x) = 6 m = min value of f(x) = \u20132 \uf05cM4 \u2013 m4 = 1280",
+    "bounds": {
+      "top": 136.79167999999993,
+      "bottom": 533.89168,
+      "left": 304.78,
+      "right": 564.1936981971919
+    },
+    "page": 1,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 3,
+    "question_text": "3. Two parabolas have the same focus (4,3) and their directrices  are  the  x-axis  and  the  y-axis, respectively.  If  these  parabolas  intersects  at  the points A and B, then (AB)2 is equal to",
+    "options": {
+      "(1)": "192",
+      "(2)": "384",
+      "(3)": "96",
+      "(4)": "392"
+    },
+    "answer": "(1)",
+    "solution": " S(4, 3) y II  I A(x 1, y 1) B(x 2, y 2 ) O  x",
+    "bounds": {
+      "top": 535.63168,
+      "bottom": 776.991740628972,
+      "left": 304.77999999999986,
+      "right": 559.8901923999999
+    },
+    "page": 1,
+    "side": "Part 2",
+    "images": [
+      "page1_q3_diagram.png"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question_text": "4. Let  ABC  be  a  triangle  formed  by  the  lines 7x \u2013 6y + 3 = 0, x + 2y \u201331 = 0 and 9x \u20132y\u201319 = 0, Let the point (h,k) be the image of the centroid of \uf044ABC in the line 3x + 6y \u201353 = 0. Then h2 + k2 + hk is equal to",
+    "options": {
+      "(1)": "37",
+      "(2)": "47",
+      "(3)": "40",
+      "(4)": "36"
+    },
+    "answer": "(1)",
+    "solution": " A(9, 11) (3,4)B   C(5,13) x+2y = 31 7x\u20136y+3=0 9x\u20132y =19 \uf05ccentroid of \uf044ABC =  , \uf0e6 9 \uf02b 3 \uf02b 5 11 \uf02b 4 \uf02b 13 \uf0f6 \uf0e7 \uf0f7 \uf0e8 3 3 \uf0f8 = \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 3 3 \uf0f8 17 28 , I(h,k) 3x+6y = 53 Let image of centroid with respect to line mirror is (h,k)",
+    "bounds": {
+      "top": 354.2516799999997,
+      "bottom": 787.77168,
+      "left": 35.45999999999992,
+      "right": 290.6542262
+    },
+    "page": 2,
+    "side": "Part 1",
+    "images": [
+      "page2_q4_diagram.png"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question_text": "5. Let  ,  and    be a \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 a \uf03d 2i \uf02d j \uf02b 3k b \uf03d 3i \uf02d 5j \uf02b k c vector such that a \uf0b4 c \uf03d c \uf0b4 b  and \uf028 \uf029 \uf028 \uf029 a \uf02b c . b \uf02b c = 168. Then the maximum value of  c is : 2",
+    "options": {
+      "(1)": "77",
+      "(2)": "462",
+      "(3)": "308",
+      "(4)": "154"
+    },
+    "answer": "(3)",
+    "solution": "a \uf03d 2i \uf02d j \uf02b 3k \u02c6 \u02c6 \u02c6 b \uf03d 3i \uf02d 5j \uf02b k \u02c6 \u02c6 \u02c6 a \uf0b4 c \uf03d c \uf0b4 b a \uf0b4 c \uf02b b \uf0b4 c= 0 (a \uf02b b) \uf0b4 c \uf03d 0 \uf0de c \uf03d\uf06c (a \uf02b b) \u02c6 \u02c6 \u02c6 |c| \uf03d\uf06c (25 \uf02b 36 \uf02b 16) 2 2 |c| \uf03d 77 \uf06c 2 2 (a \uf02b c).(b \uf02b c) \uf03d 168 a.b \uf02b a.c \uf02b c.b \uf02b |c| \uf03d 168 2 14 \uf02b c.(a \uf02b b) \uf02b 77 \uf06c 2 \uf03d 168 \uf06c 5i \uf02d 6j \uf02b 4k +77\uf06c2 = 154 \u02c6 \u02c6 \u02c6 2 77\uf06c + 77\uf06c2 \u2013 154 = 0 \uf06c2 + \uf06c \u2013 2 = 0 \uf06c= \u20132, 1 \uf05cMaximum value of   |c| 2 occurs when \uf06c = \u20132 |c| 2 \uf03d 77 \uf06c 2 = 77\u00d74 = 308\uf020",
+    "bounds": {
+      "top": 231.18593588310387,
+      "bottom": 785.97168,
+      "left": 304.78,
+      "right": 562.4925509799999
+    },
+    "page": 2,
+    "side": "Part 2",
+    "images": [
+      "page2_q5_diagram.png"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question_text": "6.  Let P be the set of seven digit numbers with sum of their digits equal to 11. If the numbers in P are formed by using the digits 1,2 and 3 only, then the number of elements in the set P is :",
+    "options": {
+      "(1)": "158",
+      "(2)": "173",
+      "(3)": "164",
+      "(4)": "161"
+    },
+    "answer": "(4)",
+    "solution": "(i) number of numbers created using 1111133 =  5!2! \uf0de 21 7! (ii) number of numbers created using 1111223 =  4!2! \uf0de 105 7! (iii) number of numbers created using 1112222 =  4!3! \uf0de 35 7! Total = 161",
+    "bounds": {
+      "top": 64.41167999999993,
+      "bottom": 343.43168,
+      "left": 35.45999999999995,
+      "right": 293.2127160600001
+    },
+    "page": 3,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 7,
+    "question_text": "7.  Let  the  area  of  the  x,y :2y \uf0a3 x \uf02b 3, region{\uf028 \uf029 2 y \uf02b x \uf0a3 3 , y \uf0b3 x\u20131 }be A. Then 6A is equal to:",
+    "options": {
+      "(1)": "16",
+      "(2)": "12",
+      "(3)": "18",
+      "(4)": "14"
+    },
+    "answer": "(4)",
+    "solution": "   A   (1,0) y=3+x   y=3\u2013x B(2,1) y=x\u20131 C  (1,2) D  (0,3) E (\u20131,2) y=1\u2013x  x2 =2y \u20133  A \uf0de Rectangle ABDE \u2013 Area of region EDC A \uf0de 4 \u20132 \uf0f2 (3 \uf02d x) \uf02d\uf0e7 dx \uf0e6 x \uf02b 3 \uf0f6 \uf0f7 \uf0e8 \uf0f8 2 1 0 2 A \uf0de 4 \u2013 2 \uf0ec x 2 x 3 3 \uf0fc 3x \uf02d \uf02d \uf02d x \uf0ed \uf0fd \uf0ee \uf0fe1 0 2 6 2 A \uf0de 4 \u2013 2\uf0ec 1 1 3 \uf0fc  \uf03d 7 3 \uf02d \uf02d \uf02d \uf0ed \uf0fd \uf0ee 2 6 2 \uf0fe 3 So 6A = 14",
+    "bounds": {
+      "top": 351.60222550916114,
+      "bottom": 788.6716799999999,
+      "left": 35.45999999999995,
+      "right": 297.66
+    },
+    "page": 3,
+    "side": "Part 1",
+    "images": [
+      "page3_q7_diagram.png"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question_text": "8.  The  least  value  of  n  for  which  the  number  of integral  terms  in  the  Binomial  expansion  of \uf028 \uf029n 3 12 7 \uf02b 11  is 183, is :",
+    "options": {
+      "(1)": "2184",
+      "(2)": "2148",
+      "(3)": "2172",
+      "(4)": "2196"
+    },
+    "answer": "(1)",
+    "solution": "General term =  n C 7 1/3 11 1/12 \uf028 \uf029 n\u2013r \uf028 \uf029 r r =  n C \uf028 7 \uf029 (11) r/12 n \uf02d r 3 r For integral terms, r must be multiple of 12 \uf05c r = 12k, k \uf0ce\uf020W Total values of r = 183 Hence max r = 12(182) \uf03d 2184 Min value of n = 2184",
+    "bounds": {
+      "top": 64.41167999999993,
+      "bottom": 440.8916800000001,
+      "left": 304.7799999999999,
+      "right": 562.4992709800001
+    },
+    "page": 3,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 9,
+    "question_text": "9.  The  number  of  solutions  of  the  equation \uf0e6 9 9 \uf0f6\uf0e6 2 7 \uf0f6 \uf02d \uf02b 2 \uf02d \uf02b 3 \uf03d 0 \uf0e8 x x \uf0f8\uf0e8 x x \uf0f8 \uf0e7 \uf0f7\uf0e7 \uf0f7 is :",
+    "options": {
+      "(1)": "2",
+      "(2)": "4",
+      "(3)": "1",
+      "(4)": "3"
+    },
+    "answer": "(2)",
+    "solution": "Consider  \uf03d\uf061        x \uf03e 0 1 x (9\uf0612\u20139\uf061+2)(2\uf0612\u20137\uf061+3) = 0 (3\uf061 \u2013 2)(3\uf061\u20131)(\uf061\u20133) (2\uf061\u20131) = 0 \uf061\uf03d1 1 2 , , ,3 3 2 3 x \uf03d 9,4, , 9 9 1 4 So, no. of solutions = 4",
+    "bounds": {
+      "top": 454.8716800000001,
+      "bottom": 768.8116799999999,
+      "left": 304.77999999999963,
+      "right": 562.49923174
+    },
+    "page": 3,
+    "side": "Part 2",
+    "images": [
+      "page3_q9_diagram.png"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question_text": "10.  Let y = y(x) be the solution of the differential equation cosx(log e (cosx))dx = 0, e(cosx))2dy + (sinx \u20133ysinx log \uf0e6 \uf070 \uf0f6 \uf0e6 \uf070 \uf0f6 \uf02d 1 \uf0e6 6\uf070 \uf0f6 x \uf0ce 0, . If  y \uf03d ,  then y \uf0f8 is : \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e8 \uf0f8 \uf0e8 2 4 log 2 e \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 e e e e 2 1 log 3 \uf02d log 4 log 4 \uf02d log 3 log \uf028 4 \uf029 log \uf028 3 \uf029 \uf02d log \uf028 4 \uf029 e e e 1 1",
+    "options": {
+      "(1)": "",
+      "(3)": "\uf02d"
+    },
+    "answer": "(4)",
+    "solution": "cosx ln \uf028 cosx \uf029 dy \uf02b sinx \uf02d 3y(sinx)ln \uf028 cosx \uf029 dx \uf03d 0 \uf028 \uf029 2 \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 2 cosx ln cosx \uf02d 3sinx.ln cosx y \uf03d\uf02d sinx dy dx \uf02d y \uf03d dx ln \uf028 cosx \uf029 \uf028 \uf028 \uf029 \uf0292 dy 3tanx \uf02d tanx ln cosx \uf02b y \uf03d dx ln \uf028 secx \uf029 \uf028 \uf029 2 ln \uf028 secx \uf029 dy 3tanx \uf02d tanx lnsecx \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 3 \uf0f2 dx I.F. \uf03d e \uf03d ln secx 3tanx \uf028 \uf028 \uf029 \uf029 \uf028 \uf028 \uf029 \uf029 \uf028 \uf028 \uf029 \uf029 y \uf0b4 ln secx \uf03d\uf02d\uf0f2 ln secx dx 3 tanx 3 2 ln secx y \uf0b4 ln \uf028 secx \uf029 \uf03d\uf02d ln \uf028 secx \uf029 \uf02b C \uf028 \uf029 3 \uf028 \uf029 2 1 2 Given :  x \uf03d 4,  y \uf03d\uf02d \uf070 1 ln2 \uf0b4 ln 2 \uf03d\uf02d \uf0b4 ln 2 \uf02b C \uf028 \uf029 3 \uf028 \uf029 2 \uf02d 1 1 ln2 2 \uf0de  \uf0b4 \uf028 ln2 \uf029 \uf03d \uf0b4 \uf028 ln2 \uf029 \uf02b C \uf02d 1 \uf02d 1 1 3 2 8ln2 2 4 \uf020 \uf02d \uf028 ln2 \uf029 \uf03d \uf028 ln2 \uf029 \uf02b C 1 \uf02d 1 2 2 8 8 \uf0de C = 0 \uf020 \uf05c\uf020y (ln(secx))3 =  (ln(secx))2 + 0 \uf02d 1 2 y = \uf028 \uf029 \uf02d 1 2ln secx y = \uf028 \uf029 1 2ln cosx",
+    "bounds": {
+      "top": 64.41167999999993,
+      "bottom": 788.2400713857855,
+      "left": 35.45999999999998,
+      "right": 293.36499001999994
+    },
+    "page": 4,
+    "side": "Part 1",
+    "images": [
+      "page4_q10_diagram.png"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question_text": "11.  Define a relation R on the interval  0, by x R y 2 \uf070 \uf0e9 \uf0f6 \uf0ea \uf0f7 \uf0eb \uf0f8 if and only if sec2x \u2013 tan2y = 1. Then R is :",
+    "options": {
+      "(1)": "an equivalence relation",
+      "(2)": "both reflexive and transitive but not symmetric",
+      "(3)": "both reflexive and symmetric but not transitive",
+      "(4)": "reflexive but neither symmetric not transitive"
+    },
+    "answer": "(1)",
+    "solution": " sec2x \u2013 tan2x = 1        (on replacing y with x) \uf0de\uf020Reflexive sec2x \u2013 tan2y = 1 \uf0de 1 + tan2x + 1 \u2013 sec2y = 1 \uf020 \uf0de sec2y \u2013 tan2x = 1 \uf020 \uf0de symmetric  sec2x \u2013 tan2y = 1,  sec2y \u2013 tan2z = 1 Adding both \uf0de sec2x \u2013 tan2y + sec2y \u2013 tan2 z = 1 + 1 sec2x + 1 \u2013 tan2z = 2 sec2x \u2013 tan2z = 1 \uf0de Transitive \uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020hence equivalence relation",
+    "bounds": {
+      "top": 277.158182081655,
+      "bottom": 765.0316800000002,
+      "left": 304.7799999999997,
+      "right": 562.6649999999998
+    },
+    "page": 4,
+    "side": "Part 2",
+    "images": [
+      "page4_q11_diagram.png"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question_text": "12.  Let  the  ellipse,  E : \uf02b \uf03d 1 ,  a  >  b  and 2 2 1 2 2 x y a b x 2 y 2 2 A 2 B 2 E : \uf02b \uf03d 1 , A < B have same eccentricity 1 3 .  Let  the  product  of  their  lengths  of  latus rectums be  , and the distance between the foci 32 3 of E 1 be 4. If E 1 and E 2 meet at A,B,C and D, then the area of the quadrilateral ABCD equals: 5  5 5",
+    "options": {
+      "(1)": "&",
+      "(2)": "we get",
+      "(3)": "12 6",
+      "(4)": "24 6"
+    },
+    "answer": "(4)",
+    "solution": "2ae = 4 2a \uf03d 4 \uf0e6 1 \uf0f6 \uf0e8 3 \uf0f8 \uf0e7 \uf0f7 \uf0de a \uf03d 2 3 \uf0de 1 \uf02d \uf03d \uf0de b \uf03d 8 b 2 1 2 12 3 Now\uf020 . \uf03d  \uf0de  2 \uf03d 2 2 2 2b 2A 32 \uf0e6 8 \uf0f6 2A 32 a B 2 3 B 3 3 \uf0e8 \uf0f8 \uf0e7 \uf0f7  \uf0de\uf020A2 = 2B \uf020 1 \uf02d \uf03d  \uf0de  1 \uf02d \uf03d  \uf0de B = 3 A 2 1 2B 1 2 2 B 3 B 3 \uf0de A2 = 6 2 2 x y 12 8 x 2 y 2 6 9 (x, y) \uf0ba \uf0e7 , \uf0f7 , \uf0e7 , \uf0f7 , \uf0e7 , \uf0f7 , \uf0e7 , \uf0f7 \uf0f8 \uf0e8 \uf0f8 \uf0e8 \uf0f8 \uf0e8 \uf0f8 \uf0e8 6 6 \uf02d 6 6 6 \uf02d 6 \uf02d 6 \uf02d 6 5 5 5 5 5 5 5 5 \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7 The four points are vertices of rectangle and its area = 24 6 5 ",
+    "bounds": {
+      "top": 65.24540370633497,
+      "bottom": 776.9537746426427,
+      "left": 35.45999999999998,
+      "right": 293.365
+    },
+    "page": 5,
+    "side": "Part 1",
+    "images": [
+      "page5_q12_diagram.png"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question_text": "13.  Consider an A.P. of positive integers, whose sum of the first three terms is 54 and the sum of the first twenty terms lies between 1600 and 1800. Then its 11th term is :",
+    "options": {
+      "(1)": "84",
+      "(2)": "122",
+      "(3)": "90",
+      "(4)": "108"
+    },
+    "answer": "(3)",
+    "solution": "S 3 = 3a + 3d = 54 \uf0de a + d = 18 S 20 = 10(2a + 19d) \uf0de 10(36 + 17d) \uf0de 1600 < 10(36 + 17d) < 1800 \uf0de 160 < 36 + 17d < 180 \uf0de 124 < 17d < 144 \uf0de  7 17 < d <  8 5 8 17 Common difference will be natural number \uf0de d = 8 \uf0de a = 10 \uf0de a 11 = 10 + 10 \u00d7 8 = 90",
+    "bounds": {
+      "top": 64.41167999999993,
+      "bottom": 399.81231999999994,
+      "left": 304.78,
+      "right": 562.52798002
+    },
+    "page": 5,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 14,
+    "question_text": "14.  Let  a \uf03d i \uf02b 2j \uf02b k  and  b \uf03d 2i \uf02b 7j \uf02b 3k . Let \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 L 1 :  r \uf03d \uf02d i \uf02b 2j \uf02b k \uf02b\uf06c a , \uf06c\uf020\uf0ce R and \uf028 \u02c6 \u02c6 \u02c6 \uf029 L 2 :  r \uf03d j \uf02b k \uf02b\uf06d b,  \uf06d\uf0ce R  be two lines. If the \uf028 \uf029 \u02c6 \u02c6 line L 3 passes through the point of intersection of L 1  and L 2, and is parallel to a \uf02b b , then L 3 passes through the point:",
+    "options": {
+      "(1)": "",
+      "(2)": "",
+      "(3)": "",
+      "(4)": ""
+    },
+    "answer": "(1)",
+    "solution": "L 1 : r  =  ( \uf02d i \uf02b 2j \uf02b k) \uf02b\uf06c (i \uf02b 2j \uf02b k) \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \uf0de r  =   ( \uf06c\uf02d 1)i \uf02b 2( \uf06c\uf02b 1)j \uf02b ( \uf06c\uf02b 1)k \u02c6 \u02c6 \u02c6 L 2 : r  =  (j \uf02b k) \uf02b\uf06d (2i \uf02b 7j \uf02b 3k) \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \uf0de r  =  2 \uf06d i \uf02b (1 \uf02b 7 \uf06d )j \uf02b (1 \uf02b 3 \uf06d )k \u02c6 \u02c6 \u02c6 For  point  of  intersection  equating  respective components \uf0de\uf020\uf06c \u2013 1 = 2\uf06d\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf02e\uf02e\uf02e\uf028\uf031\uf029\uf020 2(\uf06c + 1) = 1 + 7\uf06d\uf020\uf020\uf020\uf020\uf02e\uf02e\uf02e\uf02e\uf028\uf032\uf029 \uf06c + 1 = 1 + 3\uf06d\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf02e\uf02e\uf02e\uf02e\uf02e\uf028\uf033\uf029\uf020 \uf020 We  get",
+    "bounds": {
+      "top": 403.582466790386,
+      "bottom": 793.11168,
+      "left": 304.7799999999999,
+      "right": 565.3879634800002
+    },
+    "page": 5,
+    "side": "Part 2",
+    "images": [
+      "page5_q14_diagram.png"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question_text": "15.  The value of  lim \uf0e7 \uf0f7  is : \uf0e7 \uf028 k \uf02b 3 \uf029 ! \uf0f7 n \uf0e6 3 2 \uf0f6 n \uf0ae\uf0a5 K \uf03d 1k \uf02b 6k \uf02b 11k \uf02b 5 \uf0e8 \uf0f8 \uf0e5 3 3    3",
+    "options": {
+      "(2)": "2",
+      "(1)": "4",
+      "(3)": "7",
+      "(4)": "5"
+    },
+    "answer": "(4)",
+    "solution": "\uf0e5 n 1k 3 \uf02b 6k 2 \uf02b 11k \uf02b 5 n \uf0ae\uf0a5 k \uf03d lim (k \uf02b 3)! \uf03d lim n 1k 3 \uf02b 6k 2 \uf02b 11k \uf02b 6 \uf02d 1 n \uf0ae\uf0a5 k \uf03d (k \uf02b 3)! \uf0e5 \uf03d lim n 1(k \uf02b 1)(k \uf02b 2)(k \uf02b 3) \uf02d 1 n \uf0ae\uf0a5 k \uf03d (k \uf02b 3)! \uf0e5 \uf03d lim \uf02d n 1(k \uf02b 1)(k \uf02b 2)(k \uf02b 3) 1 n \uf0ae\uf0a5 k \uf03d (k \uf02b 3)! (k \uf02b 3)! \uf0e5 \uf03d lim \uf02d n \uf0ae\uf0a5 \uf0e8 k! (k \uf02b 3)! \uf0f8 k \uf03d 1 \uf0e5n \uf0e6 1 1 \uf0f6 \uf0e7 \uf0f7 \uf0ae\uf0a5\uf0e6 1 1 1 1 1 1 1 1 1 \uf0f6 \uf03d lim \uf02b \uf02b \uf02b .... \uf02b \uf02d \uf02d \uf02d .... \uf02d \uf0e7 \uf0f7 n 1! 2! 3! 4! n! 4! 5! 6! (n \uf02b 3)! \uf0e8 \uf0f8 1 1 1 10 5 1 2 6 6 3 \uf03d \uf02b \uf02b \uf03d \uf03d",
+    "bounds": {
+      "top": 151.3514927630804,
+      "bottom": 531.8672667188217,
+      "left": 35.45999999999998,
+      "right": 291.94267527709565
+    },
+    "page": 6,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 16,
+    "question_text": "16.  The integral  d\uf071 is equal to : 4 0 \uf0e6 sin \uf071\uf02b cos \uf071 \uf0f6 80 \uf0f2 \uf0e8 9 \uf02b 16sin2 \uf071 \uf0f8 \uf070 \uf0e7 \uf0f7",
+    "options": {
+      "(1)": "3 log e4",
+      "(2)": "6 log e4",
+      "(3)": "4 log e3",
+      "(4)": "2 log e3"
+    },
+    "answer": "(3)",
+    "solution": "I \uf03d 80 d \uf071 \uf070 \uf0f24 \uf0e6 sin \uf071\uf02b cos \uf071 \uf0f6 \uf0e7 \uf0f7 \uf0e8 9 \uf02b 16(2sin \uf071 .cos \uf071 ) \uf0f8 0 \uf03d 80 d \uf071 \uf070 sin \uf071\uf02b cos \uf071 9 \uf02d 16(1 \uf02d 2sin \uf071 .cos \uf071\uf02d 1) \uf0f24 0",
+    "bounds": {
+      "top": 538.6421914939197,
+      "bottom": 766.6158008928339,
+      "left": 35.45999999999995,
+      "right": 281.78501276
+    },
+    "page": 6,
+    "side": "Part 1",
+    "images": [
+      "page6_q16_diagram.png"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question_text": "17.  Let   and 1 x \uf02d 1 y \uf02d 2 z \uf02d 1 L : \uf03d \uf03d 1 \uf02d 1 2 L : \uf03d \uf03d  be two lines. 2 x \uf02b 1 y \uf02d 2 z \uf02d 1 2 1 Let L 3 be a line passing through the point (\uf061,\uf062,\uf067) and  be perpendicular  to both L 1 and L 2. If L 3 intersects L 1, then |5\uf061\u201311\uf062\u20138\uf067| equals :",
+    "options": {
+      "(1)": "18",
+      "(2)": "16",
+      "(3)": "25",
+      "(4)": "20"
+    },
+    "answer": "(3)",
+    "solution": "DR\u2019s of L 3 = m \uf0b4 n  =  1 \uf02d 1 2 \u02c6 \u02c6 \u02c6 i j k \uf02d 1 2 1 \uf03d\uf02d 5i \uf02d 3j \uf02b k \u02c6 \u02c6 \u02c6 L \uf03d \uf03d \uf03d\uf06c 3 : x \uf02d\uf061 y \uf02d\uf062 z \uf02d\uf067 \uf02d 5 \uf02d 3 1 A(\uf061 \u2013 5\uf06c, \uf062 \u2013 3\uf06c, \uf067 + \uf06c) L \uf03d \uf03d \uf03d k 1 : x \uf02d 1 y \uf02d 2 z \uf02d 1 1 \uf02d 1 2 B(k + 1, \u2013k + 2, 2k + 1) Now \uf061 \u20135\uf06c = k+1 \uf0de \uf061 = 5\uf06c + k +1 \uf062 \u20133\uf06c = \u2013k+2 \uf0de \uf062 = 3\uf06c \u2013 k +2 \uf067 + \uf06c = 2k+1 \uf0de \uf067 = \u2013\uf06c + 2k +1 |5\uf061 \u201311\uf062 \u2013 8\uf067\uf07c\uf020= |\u201325| = 25",
+    "bounds": {
+      "top": 340.8328785711652,
+      "bottom": 784.4116799999999,
+      "left": 304.77999999999963,
+      "right": 562.6650399999999
+    },
+    "page": 6,
+    "side": "Part 2",
+    "images": [
+      "page6_q17_diagram.png"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question_text": "18.  Let  x 1,  x 2,......x 10  be  ten  observations  such  that \uf028 x \uf02d 2 \uf029 \uf03d 30 \uf028 x \uf02d\uf062 \uf029 \uf03d 98, \uf062 > 2 and 10 \uf0e510 i i i \uf03d 1 i \uf03d 1 \uf0e5 2 , their variance is 4 5 . If \uf06d and \uf0732 are respectively the mean and the variance of 2(x 1\u20131) + 4\uf062, 2(x 2\u20131) + 4\uf062, ....., 2(x is equal to : 10\u20131)+ 4\uf062, then \uf062\uf06d \uf0732",
+    "options": {
+      "(1)": "100",
+      "(2)": "\uf020",
+      "(3)": "\uf020",
+      "(4)": "90"
+    },
+    "answer": "(1)",
+    "solution": "x \uf03d 50 ,   \uf05c mean = 5 10 i i \uf03d 1 \uf0e5 Variance =  \uf03d i \uf02d i 4 \uf053 x \uf0e6 \uf053 x \uf0f6 \uf0e7 \uf0f7 \uf0e8 2 \uf0f82 5 10 10 \uf03d i \uf02d 25 4 \uf053 x 2 5 10 2 i Now  \uf0e5 1(x \uf02d\uf062 ) 2 \uf03d 98 10 i i \uf03d x 2 \uf02d 2 \uf062 .x \uf02b\uf062 2 \uf03d 98 \uf028 \uf029 i \uf03d 1 \uf0e510 i i 258 \u20132\uf062(50) + 10\uf0622 = 98 (\uf062 \u2013 8)(\uf062\uf020\u2013 2) = 0 \uf062\uf020= or \uf062 = 2   (as \uf062 > 2) Now as per the question 2(x 1\u20131) + 4\uf062, 2(x 2\u20131) + 4\uf062,\u2026.2(x 10\u20131)+4\uf062\uf020 \uf020\uf020\uf020\uf020\uf020\uf020\uf020can be simplified to \uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf073\uf032\uf020\uf03d\uf020\uf032\uf032 \uf0e6 4 \uf0f6  = 16 \uf0e7 \uf0f7 \uf0e8 5 \uf0f8 5  \uf03d \uf03d 100 \uf062\uf06d 8 \uf0b4 40 \uf0732 16/5",
+    "bounds": {
+      "top": 64.41167999999993,
+      "bottom": 777.5911910471337,
+      "left": 35.459999999999965,
+      "right": 293.35956706
+    },
+    "page": 7,
+    "side": "Part 1",
+    "images": [
+      "page7_q18_diagram.png"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question_text": "19.  Let  z \uf02d 8 \uf02d 2i \uf0a3 1   and  z \uf02d 2 \uf02b 6i \uf0a3 2 , 1 2 1 2 z ,z \uf0ce C . Then the  minimum value of 1 2 z \u2013z is :",
+    "options": {
+      "(1)": "3",
+      "(2)": "7",
+      "(3)": "13",
+      "(4)": "10"
+    },
+    "answer": "(2)",
+    "solution": "  A(8,2)  B(2,\u20136)  AB =  100 \uf03d 10 \uf05c |Z 1 \u2013 Z 2| min = 10 \u2013 2 \u2013 1 = 7",
+    "bounds": {
+      "top": 66.30800730700287,
+      "bottom": 353.37231999999995,
+      "left": 304.78,
+      "right": 562.6650000000001
+    },
+    "page": 7,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 20,
+    "question_text": "20.  Let  A \uf03d \uf0e9 a \uf0f9 \uf03d . \uf0e9 log 128 log 5 \uf0f9 \uf0ea \uf0fa \uf0eb ij \uf0fb \uf0eb \uf0fb 5 4 5 4 log 8 log 25 If A ij is the cofactor of a ij, C ij =  1a A , 1 \uf0a3 i , k \uf03d \uf0e52 ik jk j \uf0a3 2 , and C = [C ij], then 8|C| is equal to :  |A| = 11 2 C 11 =  \uf0e5 a .A \uf03d a A \uf02b a A \uf03d |A| \uf03d 2 11 1k 1k 11 11 12 12 2 k \uf03d 1 C 12 =  1a .A \uf03d 0 k \uf03d \uf0e52 1k 2k C 21 =  1a .A \uf03d 0 k \uf03d \uf0e52 2k 1k C 22 =  a .A \uf03d |A| \uf03d k \uf03d 1 \uf0e52 11 2k 2k 2 C = \uf0e9 11/2 0 \uf0f9 \uf0ea \uf0fa \uf0eb 0 11/2 \uf0fb  |C| = 121 4  8|C| = 242",
+    "options": {
+      "(1)": "262",
+      "(2)": "288",
+      "(3)": "242",
+      "(4)": "222"
+    },
+    "answer": "(3)",
+    "solution": "",
+    "bounds": {
+      "top": 360.5187608903723,
+      "bottom": 784.35168,
+      "left": 304.77969999999993,
+      "right": 562.665
+    },
+    "page": 7,
+    "side": "Part 2",
+    "images": [
+      "page7_q20_diagram.png"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question_text": "21.  Let  f  :  (0,\uf0a5)  \uf0ae    R  be  a  twice  differentiable function. If for some a \uf0b9 0,  0f \uf06c x d \uf06c  = af(x), \uf028 \uf029 \uf0f21 1 1 8 \uf0e8 16 ' \uf0e6 \uf0f6 \uf0e7 \uf0f7 to ______,",
+    "options": {
+      "(1)": "= l \uf0de c = 0"
+    },
+    "answer": "(1)",
+    "solution": "\uf0f2 0f( \uf06c x)d \uf06c\uf03d af(x) 1 \uf06cx = t dt d\uf06c = 1 x f(t)dt \uf03d af(x) 1 x 0 x \uf0f2  x \uf0f2 0f(t)dt \uf03d axf(x) f(x) = a(x f\u2019(x) + f(x)) (1 \u2013 a)f(x) = a.x f\u2019(x) \uf03d \uf028 \uf029 f'(x) 1 \uf02d a 1 f(x) a x \uf06cnx + c \uf06cnf(x) = 1 \uf02d a a 8 x = l6, f(16) = 1 \uf03d (16) a   \uf0de a = 4 1 \uf02d a  \uf0de \u20133 = 4 \uf02d 4a 1 8 a f(x) =  4 3 x\uf02d f\u2019(x) =  \uf02d x 4 7 3 4 \uf02d \uf05c  16 \u2013 f\u2019 \uf0f8 \uf0e6 1 \uf0f6 \uf0e8 16 \uf0e7 \uf0f7 =  16 \uf02d \uf02d (2 \uf02d 4 ) \uf02d 7/4 \uf0f8 \uf0e6 3 \uf0f6 \uf0e8 4 \uf0e7 \uf0f7 = 16 + 96 = 112",
+    "bounds": {
+      "top": 82.29167999999993,
+      "bottom": 775.4116799999999,
+      "left": 35.45999999999998,
+      "right": 293.32965554000003
+    },
+    "page": 8,
+    "side": "Part 1",
+    "images": [
+      "page8_q21_diagram.png"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question_text": "22.  Let  S \uf03d m \uf0ce Z:A \uf02b A \uf03d 3I\u2013A ,  where \uf07b \uf07d m m \uf02d 6 2 \uf0e9 2 \uf02d 1 \uf0f9 A \uf03d . Then n(S) is equal to ____. 1 0 \uf0ea \uf0fa \uf0eb \uf0fb",
+    "options": {},
+    "answer": "(2)",
+    "solution": "\uf0fb \uf0e9 2 \uf02d 1 \uf0f9 A \uf03d 1 0 \uf0ea \uf0fa \uf0eb \uf0fb 2 3 4 3 \uf02d 2 4 \uf02d 3 5 \uf02d 4 A \uf03d ,A \uf03d ,A \uf03d \uf0eb 2 \uf02d 1 \uf0fb \uf0eb 3 \uf02d 2 \uf0fb \uf0eb 4 \uf02d 3 \uf0e9 \uf0f9 \uf0e9 \uf0f9 \uf0e9 \uf0f9 \uf0ea \uf0fa \uf0ea \uf0fa \uf0ea \uf0fa and so on A \uf03d \uf0fb 6 \uf0e9 7 \uf02d 6 \uf0f9 6 \uf02d 5 \uf0ea \uf0fa \uf0eb A \uf03d , \uf0e9 m \uf02b 1 \uf02d m \uf0f9 \uf0ea \uf0fa m \uf02d m \uf02b 1 \uf0eb \uf0fb m \uf028 \uf029 2 2 2 m \uf0ea \uf0fa \uf0ea m 2 \uf02d m 2 \uf02d 1 \uf0fa \uf0e9 m \uf02b 1 \uf02d m \uf0f9 A \uf03d \uf0fb \uf0eb  m m \uf02d 6 A \uf02b A \uf03d 3I \uf02d A 2  2 \uf028 2 \uf029 \uf0e9 m \uf02b 1 \uf02d m \uf0f9 \uf0e9 m \uf02b 1 \uf02d m \uf0f9 \uf0ea \uf0fa\uf02b \uf0ea \uf0fa \uf0ea m \uf02d m \uf02d 1 \uf0fa m \uf02d m \uf02b 1 \uf0eb \uf0fb \uf0eb \uf0fb 2 2 =  3 \uf02d \uf0fb \uf0e9 1 0 \uf0f9 \uf0e9 \uf02d 5 6 \uf0f9 0 1 \uf02d 6 7 \uf0ea \uf0fa \uf0ea \uf0fa \uf0eb \uf0fb \uf0eb =  \uf0fb \uf0e9 8 \uf02d 6 \uf0f9 6 \uf02d 4 \uf0ea \uf0fa \uf0eb  = m2 + 1 + m + 1 = 8 = m2 + m\u20136 = 0 \uf0de m = \u20133, 2 n(s) = 2",
+    "bounds": {
+      "top": 62.55264017585205,
+      "bottom": 604.77168,
+      "left": 304.78,
+      "right": 562.63864392
+    },
+    "page": 8,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 23,
+    "question_text": "23.  Let [t] be the greatest integer less than or equal to t. Then the least value of p \uf0ce N  for which \uf02b \uf0e7 x x x x 2 x 2 x 2 \uf0f7 x \uf0ae 0 \uf0e8 \uf0eb \uf0fb \uf0eb \uf0fb \uf0eb \uf0fb \uf0f8 \uf0e8 \uf0eb \uf0fb \uf0eb \uf0fb \uf0eb \uf0fb \uf0f8 \uf0e6 \uf0e6 \uf0e9 2 \uf0f9 \uf0e9 2 \uf0f9 \uf0f6 \uf0f6 \uf0e6 \uf0e9 1 \uf0f9 \uf0e9 2 \uf0f9 \uf0e9 p \uf0f9 \uf0f6 \uf0e9 1 \uf0f9 2 9 lim \uf0e7 x \uf02b \uf02b ..... \uf02b \u2013x \uf0e7 \uf02b \uf0ea \uf0fa \uf02b .... \uf02b \uf0ea \uf0fa \uf0f7 \uf0f7 \uf0b3 1 \uf0e7 \uf0ea \uf0fa \uf0ea \uf0fa \uf0ea \uf0fa \uf0f7 \uf0e7 \uf0ea \uf0fa \uf0f7 \uf0e8 \uf0f8 2 is equal to ____.",
+    "options": {},
+    "answer": "(2)",
+    "solution": "\uf0e6 \uf0e6 \uf0f6 \uf0e6 \uf0e9 2 \uf0f9 \uf0e9 2 \uf0f9 \uf0f6 \uf0f6 \uf0b31 x \uf0ae 0 \uf02b \uf0e8 \uf0eb x \uf0fb \uf0eb x \uf0fb \uf0eb x \uf0fb \uf0f8 \uf0eb x \uf0fb x x \uf0e9 1 \uf0f9 \uf0e9 2 \uf0f9 \uf0e9 p \uf0f9 \uf0e9 1 \uf0f9 2 9 lim \uf0e7 x \uf02b \uf02b ..... \uf02b \u2013x 2 \uf02b \uf02b \uf0f7 \uf0e7 \uf0ea \uf0fa \uf0ea \uf0fa \uf0ea \uf0fa \uf0f7 \uf0e7 \uf0ea \uf0fa \uf0ea \uf0fa \uf0ea \uf0fa \uf0f7 \uf0e7 \uf0e7 2 2 2 \uf0f7 \uf0f7 \uf0e8 \uf0e8 \uf0eb \uf0fb \uf0eb \uf0fb \uf0f8 \uf0f8 (1 + 2 + ......+ p) \u2013 (12 + 22 + ....92) \uf0b31",
+    "bounds": {
+      "top": 611.4916799999999,
+      "bottom": 777.427263598,
+      "left": 304.78,
+      "right": 563.38499868
+    },
+    "page": 8,
+    "side": "Part 2",
+    "images": [
+      "page8_q23_diagram.png"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question_text": "24.  The  number  of  6-letter  words,  with  or  without meaning, that can be formed using the letters of the word MATHS such that any letter that appears in the  word must appear at least twice, is 4 ____.",
+    "options": {},
+    "answer": "(1)",
+    "solution": "(i) Single letter is used , then no. of words = 5 (ii) Two distinct letters are used, then no. of words C \uf0b4 \uf0b4 2 \uf02b \uf03d 10 30 \uf02b 20 \uf03d 500 5 \uf028 \uf029 2 \uf0e6 6! 6! \uf0f6 2!4! 3!3! \uf0e7 \uf0f7 \uf0e8 \uf0f8 (iii)  Three  distinct  letters  are  used,  then  no.  of words C \uf0b4 \uf03d 900 5 3 6! 2!2!2! Total no. of words = 1405",
+    "bounds": {
+      "top": 135.77167999999995,
+      "bottom": 428.35168,
+      "left": 35.45999999999998,
+      "right": 293.32377876
+    },
+    "page": 9,
+    "side": "Part 1",
+    "images": [
+      "page9_q24_diagram.png"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question_text": "25.  Let  S \uf03d x:cos x \uf03d\uf070\uf02b sin x \uf02b sin 2x \uf02b 1 . \uf02d 1 \uf02d 1 \uf02d 1 \uf028 \uf029 \uf07b \uf07d Then   is equal to ______. \uf028 2x \uf02d 1 \uf0e5 \uf0292 x \uf0ce S",
+    "options": {},
+    "answer": "(5)",
+    "solution": "cos\u20131x = \uf070 + sin\u20131x + sin\u20131 (2x + 1)  2cos\u20131x\u2013sin\u20131(2x + 1) = 3 2\uf070  2\uf061 \u2013 \uf062 = 3 2\uf070 where cos\u20131x =\uf061, sin\u20131(2x+1) = \uf062 + \uf062 2\uf061 = 3 2\uf070 cos2\uf061 = sin\uf062  2cos2\uf061 \u20131 = sin\uf062 2x2 \u20131 = 2x +1 x2 \u2013 x \u20131 = 0 \uf0de x =  , x \uf03d rejected \uf0ec \uf0fc 1 \uf02d 5 \uf0ef 1 \uf02b 5 \uf0ef \uf0ed \uf0fd \uf0ef \uf0ef \uf0ee \uf0fe 2 2  \uf05c 4x2 \u20134x = 4 (2x \u2013 1)2 = 5 ",
+    "bounds": {
+      "top": 62.91066978397396,
+      "bottom": 439.03168,
+      "left": 304.7797,
+      "right": 562.66499658
+    },
+    "page": 9,
+    "side": "Part 2",
+    "images": [
+      "page9_q25_diagram.png"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question_text": "26. Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : Choke coil is simply a coil having a large inductance but a small resistance. Choke coils  are  used  with  fluorescent  mercury-tube fittings.  If  household  electric  power  is  directly connected  to  a  mercury  tube,  the  tube  will  be damaged. Reason (R) : By using the choke coil, the voltage across  the  tube  is  reduced  by  a  factor \uf028 \uf029 R R 2 \uf02b\uf077 2 L 2 ,  where  \uf077  is  frequency  of  the supply  across  resistor  R  and  inductor  L.  If  the choke coil were not used, the voltage across the resistor would be the same as the applied voltage. In the light of the above statements, choose the most appropriate answer from the options given below: correct explanation of (A). explanation of (A).",
+    "options": {
+      "(1)": "Both",
+      "(3)": "Both"
+    },
+    "answer": "(3)",
+    "solution": "A: Correct B : Correct with correct explanation",
+    "bounds": {
+      "top": 153.8446399999999,
+      "bottom": 600.0846400000001,
+      "left": 35.39999999999999,
+      "right": 293.26423423999995
+    },
+    "page": 10,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 27,
+    "question_text": "27. Two projectiles are fired with same initial speed from same point on ground at angles of (45\u00b0 \u2013 \uf061) and (45\u00b0 + \uf061), respectively, with the horizontal direction.  The  ratio  of  their  maximum  heights attained is : 1 \uf02b tan \uf061 1 \uf02d sin \uf061 1 \uf02b sin2 \uf061 1 \uf02d sin2 \uf061",
+    "options": {
+      "(1)": "1 \uf02d tan \uf061",
+      "(2)": "1 \uf02b sin \uf061",
+      "(3)": "1 \uf02d sin2 \uf061",
+      "(4)": "1 \uf02b sin2 \uf061"
+    },
+    "answer": "(3)",
+    "solution": "",
+    "bounds": {
+      "top": 605.9646400000001,
+      "bottom": 770.26464,
+      "left": 35.4,
+      "right": 290.52632
+    },
+    "page": 10,
+    "side": "Part 1",
+    "images": [
+      "page10_q27_diagram.png"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question_text": "28. An electric dipole of mass m, charge q, and length l is  placed  in a  uniform  electric  field E \uf03d E i . 0\u02c6 When  the  dipole  is  rotated  slightly  from  its equilibrium position and released, the time period of its oscillations will be : 0 0 1 2m l m l 2 \uf070 qE qE 0 0 1 m l m l 2 \uf070 2qE 2qE",
+    "options": {
+      "(1)": "",
+      "(2)": "2 \uf070",
+      "(3)": "",
+      "(4)": "2 \uf070"
+    },
+    "answer": "(4)",
+    "solution": "I\uf0772\uf071 = q\uf06cE 0\uf071 2 2m \uf077 2 \uf03d q E 0 2 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 2 0 2qE m \uf077 \uf03d 0 m T \uf03d 2 \uf070 2qE",
+    "bounds": {
+      "top": 323.19463999999994,
+      "bottom": 658.1704334147697,
+      "left": 304.87,
+      "right": 562.8
+    },
+    "page": 10,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 29,
+    "question_text": "29. The pair of physical quantities not having same dimensions is :",
+    "options": {
+      "(1)": "Torque and energy",
+      "(2)": "Surface tension and impulse",
+      "(3)": "Angular momentum and Planck's constant",
+      "(4)": "Pressure and Young's modulus"
+    },
+    "answer": "(2)",
+    "solution": "",
+    "bounds": {
+      "top": 666.0846399999999,
+      "bottom": 788.26464,
+      "left": 304.87,
+      "right": 559.9185352
+    },
+    "page": 10,
+    "side": "Part 2",
+    "images": [
+      "page10_q29_diagram.png"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question_text": "30.  Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : Time period of a simple pendulum is longer at the top of a mountain than that at the base of the mountain. Reason (R) : Time period of a simple pendulum decreases with increasing value of acceleration due to gravity and vice-versa. In the light of the above statements, choose the most appropriate answer from the options given below: correct explanation of (A). explanation of (A).",
+    "options": {
+      "(1)": "Both",
+      "(2)": "Both",
+      "(3)": "",
+      "(4)": ""
+    },
+    "answer": "(2)",
+    "solution": "As h increases, g decreases, T increases T \uf03d 2 \uf070 g g \uf03d 0 (R \uf02b h) g R 2 2",
+    "bounds": {
+      "top": 133.80463999999984,
+      "bottom": 540.8125929750375,
+      "left": 35.39999999999995,
+      "right": 293.32568095999994
+    },
+    "page": 11,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 31,
+    "question_text": "31.  The expression given below shows the variation of velocity  (\uf06e)  with  time  (t),  \uf06e\uf03d At 2 \uf02b .  The Bt C \uf02b t dimension of ABC is : 0 2 \uf02d 3 0 1 \uf02d 3 0 1 \uf02d 2 0 2 \uf02d 2",
+    "options": {
+      "(1)": "[M LT ]",
+      "(2)": "[M LT ]",
+      "(3)": "[M LT ]",
+      "(4)": "[M LT ]"
+    },
+    "answer": "(1)",
+    "solution": "[T] [LT\u20131] = [A] [T2] = [C] \uf02b [B][T] [C] = [T]  [A] = [LT\u20133] [B] = [LT\u20131] [ABC] = [L2T\u20133]",
+    "bounds": {
+      "top": 548.57464,
+      "bottom": 770.62464,
+      "left": 35.39999999999997,
+      "right": 293.32090207999994
+    },
+    "page": 11,
+    "side": "Part 1",
+    "images": [
+      "page11_q31_diagram.png"
+    ]
+  },
+  {
+    "question_number": 32,
+    "question_text": "32.  Consider  I 1  and  I 2  are  the  currents  flowing simultaneously  in  two  nearby  coils  1  &  2, respectively.  If  L 1  =  self  inductance  of  coil  1, M 12 = mutual inductance of coil 1 with respect to coil 2, then the value of induced emf in coil 1 will be 1 1 12 dI dI dt dt 1 1 12 dI dI dt dt 1 1 dt 12 dt dI dI 1 1 12 dI dI dt dt",
+    "options": {
+      "(1)": "\uf065 \uf03d\uf02d L 1 \uf02b M 2",
+      "(2)": "\uf065 \uf03d\uf02d L 1 \uf02d M 1",
+      "(3)": "\uf065 \uf03d\uf02d L 1 \uf02d M 2",
+      "(4)": "\uf065 \uf03d\uf02d L 2 \uf02d M 1"
+    },
+    "answer": "(3)",
+    "solution": "\uf066 1 = L 1 I 1 + M 12 I 2 \uf065 \uf03d\uf02d 1 \uf03d\uf02d L 1 \uf02d M 2 d \uf066 dI dI 1 dt 1 dt 12 dt",
+    "bounds": {
+      "top": 64.30464000000006,
+      "bottom": 380.5494854588054,
+      "left": 304.87,
+      "right": 565.44013888
+    },
+    "page": 11,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 33,
+    "question_text": "33.  At  the  interface  between  two  materials  having refractive indices n 1 and n 2, the critical angle for reflection of an em wave is \uf071 1C. The n 2 material is replaced  by  another  material  having  refractive index n 3, such that the critical angle at the interface between n 1 and n 3 materials is \uf071 2C. If n 3 > n 2 > n 1; 2 \uf03d  and  sin \uf071 \uf02d sin \uf071 \uf03d , then \uf071 1C is 3 n 2 1 n 5 2C 1C 2 1 1 \uf0e6 1 \uf0f6 \uf0e6 2 \uf0f6 6n 3n \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0e8 1 1 5 1 6n 3n \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0e8",
+    "options": {
+      "(1)": "sin \uf02d 1 \uf0f8",
+      "(2)": "sin \uf02d 1 \uf0f8",
+      "(3)": "sin \uf02d 1 \uf0f8",
+      "(4)": "sin \uf02d 1 \uf0f8"
+    },
+    "answer": null,
+    "solution": "sin \uf071 \uf03d 1 1C 2 n n  sin \uf071 \uf03d 1 2C n 3 n sin \uf071 \uf02d sin \uf071 \uf03d 2 2C 1C 1 ",
+    "bounds": {
+      "top": 388.71464000000003,
+      "bottom": 777.4994787742781,
+      "left": 304.87,
+      "right": 562.8000254399998
+    },
+    "page": 11,
+    "side": "Part 2",
+    "images": [
+      "page11_q33_diagram.png"
+    ]
+  },
+  {
+    "question_number": 34,
+    "question_text": "34.  Consider  a  long  straight  wire  of  a  circular cross-section (radius a) carrying a steady current I. The  current  is  uniformly  distributed  across  this cross-section. The distances from the centre of the wire's  cross-section at which  the  magnetic field [inside the wire, outside the wire] is half of the maximum possible magnetic field, any where due to the wire, will be",
+    "options": {
+      "(1)": "[a 4,3a 2]",
+      "(2)": "[a 2,2a]",
+      "(3)": "[a 2,3a]",
+      "(4)": "[a 4,2a]"
+    },
+    "answer": "(2)",
+    "solution": "Maximum possible magnetic field is at the surface \uf06d I B \uf03d \uf0700 max 2 a max \uf03d 0 B \uf06d I 2 4 \uf070 a It can be obtained inside as well as outside the wire For inside, 0 \uf03d 0 \uf06d I \uf06d Ir 4 \uf070 a 2 \uf070 a 2 \uf0de r \uf03d a 2 For outside 0 \uf03d 0 \uf06d I \uf06d I 4 \uf070 a 2 \uf070 r \uf0de r = 2a ,2a Correct answer \uf0e9 a \uf0f9 \uf0ea \uf0fa \uf0eb \uf0fb 2",
+    "bounds": {
+      "top": 246.39463999999998,
+      "bottom": 757.7158534706161,
+      "left": 35.39999999999998,
+      "right": 295.9701758399998
+    },
+    "page": 12,
+    "side": "Part 1",
+    "images": [
+      "page12_q34_diagram.png"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question_text": "35.  As shown below, bob A of a pendulum having massless string of length 'R' is released from 60\u00b0 to the vertical. It hits another bob B of half the mass that is at rest on a friction less table in the centre. Assuming elastic collision, the magnitude of the velocity of bob A after the collision will be (take g as acceleration due to gravity)  A m m/2 B 60\u00b0 3 3 3",
+    "options": {
+      "(2)": "Rg",
+      "(1)": "1",
+      "(4)": "Rg",
+      "(3)": "4 2"
+    },
+    "answer": "(1)",
+    "solution": "  R  A  B  60\u00b0  R/2  R/2  Velocity of a just before hitting : u \uf03d 2g \uf03d gR R 2 Just after collision, let velocity of A and B are v 1 and v 2 respectively \uf05c by COM: mu = mv 1 + v 2 m 2 2v 1 + v 2 = 2u     \u2026.(i) e \uf03d 1 \uf03d 2 1 v \uf02d v u \uf0de v 2 \u2013 v 1 = u     \u2026.(ii) From (i) \u2013(ii) \uf0de 3v 1 = u \uf0de v \uf03d \uf03d gR 1 u 1 3 3",
+    "bounds": {
+      "top": 64.30463999999995,
+      "bottom": 747.7494787742781,
+      "left": 304.86999999999995,
+      "right": 562.8
+    },
+    "page": 12,
+    "side": "Part 2",
+    "images": [
+      "page12_q35_diagram.png"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question_text": "36.  Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion  (A)  :  Emission  of  electrons  in photoelectric effect can be suppressed by applying a  sufficiently  negative  electron  potential  to  the photoemissive substance. Reason (R) : A negative electric potential, which stops the emission of electrons from the surface of a  photoemissive  substance,  varies  linearly  with frequency of incident radiation. In the light of the above statements, choose the most appropriate answer from the options given below: explanation of (A). correct explanation of (A).",
+    "options": {
+      "(1)": "",
+      "(2)": "",
+      "(3)": "Both",
+      "(4)": "Both"
+    },
+    "answer": "(4)",
+    "solution": "(A) : True (B) : True but not correct explanation",
+    "bounds": {
+      "top": 64.42463999999995,
+      "bottom": 419.5746399999999,
+      "left": 35.399999999999984,
+      "right": 293.33
+    },
+    "page": 13,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 37,
+    "question_text": "37.  A  coil  of  area  A  and  N  turns  is  rotating  with angular velocity \uf077 in a uniform magnetic field B about an axis perpendicular to  B. Magnetic flux \uf06a\uf020and induced emf \uf065\uf020across it, at an instant when B is parallel to the plane of coil, are :",
+    "options": {
+      "(1)": "\uf06a = AB, \uf065 = 0",
+      "(2)": "\uf06a = 0, \uf065 = NAB\uf077",
+      "(3)": "\uf06a = 0, \uf065 = 0",
+      "(4)": "\uf06a = AB, \uf065 = NAB\uf077"
+    },
+    "answer": "(2)",
+    "solution": "    \uf066 = BAN.cos(\uf077t) \uf065\uf03d = BA\uf077N.sin(\uf077t) \uf02d d \uf066 dt  When B is parallel to plane, \uf077t = \uf070 2 \uf0de \uf066 = 0, \uf065 = BA\uf077N",
+    "bounds": {
+      "top": 424.4946399999999,
+      "bottom": 759.4646399999999,
+      "left": 35.39999999999995,
+      "right": 293.33
+    },
+    "page": 13,
+    "side": "Part 1",
+    "images": [
+      "page13_q37_diagram.png"
+    ]
+  },
+  {
+    "question_number": 38,
+    "question_text": "38.  The fractional compression   of water at the \uf0e6 \uf044 V \uf0f6 V \uf0e7 \uf0f7 \uf0e8 \uf0f8 depth of 2.5 km below the sea level is ________%. Given, the Bulk modulus of water = 2 \u00d7 109 Nm\u20132, density of water = 103 kg m\u20133, acceleration due to gravity = g = 10 ms\u20132.",
+    "options": {
+      "(1)": "1.75",
+      "(2)": "1.0",
+      "(3)": "1.5",
+      "(4)": "1.25"
+    },
+    "answer": "(4)",
+    "solution": "B \uf03d \uf072 gh \uf0e6 \uf044 v \uf0f6 \uf0e7 \uf0f7 \uf0e8 v \uf0f8 \uf0b4 100 \uf03d \uf0b4 100 \uf044 v \uf072 gh v B \uf0b4 100% 1000 \uf0b4 10 \uf0b4 2.5 \uf0b4 10 3 2 \uf0b4 10 9 = 1.25 %",
+    "bounds": {
+      "top": 66.11703507528046,
+      "bottom": 366.87463999999994,
+      "left": 304.87,
+      "right": 562.8
+    },
+    "page": 13,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 39,
+    "question_text": "39.  If \uf06c and K are de Broglie Wavelength and kinetic energy, respectively, of a particle  with constant mass. The correct graphical representation for the particle will be :-  1  1 \uf06c\uf020 \uf06c\uf020 K  K 0  0  1  1 \uf06c\uf020 \uf06c\uf020 K  K 0  0",
+    "options": {
+      "(1)": "",
+      "(3)": ""
+    },
+    "answer": "(2)",
+    "solution": "\uf06c\uf03d \uf03d h h mv 2mK  h 2 \uf0e6 1 \uf0f6 \uf06c 2 \uf03d \uf0e7 \uf0f7 \uf0e8 \uf0f8 2m k Y = cx2 Upward facing parabola passing through origin.",
+    "bounds": {
+      "top": 375.51464,
+      "bottom": 714.3246399999999,
+      "left": 304.87,
+      "right": 562.61416528
+    },
+    "page": 13,
+    "side": "Part 2",
+    "images": [
+      "page13_q39_diagram.png"
+    ]
+  },
+  {
+    "question_number": 40,
+    "question_text": "40.  Y A B For the circuit shown above, equivalent GATE is :",
+    "options": {
+      "(1)": "OR gate",
+      "(2)": "NOT gate",
+      "(3)": "AND gate",
+      "(4)": "NAND gate"
+    },
+    "answer": "(1)",
+    "solution": "0 1 1 A B Y 0 0 0 1 0 1 1 1 1 \uf0de OR Gate",
+    "bounds": {
+      "top": 69.51691097151581,
+      "bottom": 333.39464,
+      "left": 35.4,
+      "right": 288.65021423999997
+    },
+    "page": 14,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 41,
+    "question_text": "41.  A body of mass 'm' connected to a massless and unstretchable string goes in verticle circle of radius 'R' under gravity g. The other end of the string is fixed at the center of circle. If velocity at top of circular path is n gR, where, n \uf0b31, then ratio of kinetic energy of the body at bottom to that at top of the circle is n \uf02b 4 n 2n 2 n 2 n\uf02b 4 n \uf02b 4 2",
+    "options": {
+      "(2)": "n \uf02b 4",
+      "(3)": ""
+    },
+    "answer": "(4)",
+    "solution": " V \uf03d n 2 gR Top V \uf03d n 2 gR \uf02b 4gR Bottom Ratio \uf03d n \uf02b 4 2 n 2",
+    "bounds": {
+      "top": 339.75463999999994,
+      "bottom": 647.1873545501467,
+      "left": 35.39999999999998,
+      "right": 293.27363712
+    },
+    "page": 14,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 42,
+    "question_text": "42.  Let u and v be the distances of the object and the image from a lens of focal length f. The correct graphical representation of u and v for a convex lens when |u| > f, is",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 652.76464,
+      "bottom": 720.3246399999999,
+      "left": 35.39999999999999,
+      "right": 293.29923584
+    },
+    "page": 14,
+    "side": "Part 1",
+    "images": [
+      "page14_q42_diagram.png"
+    ]
+  },
+  {
+    "question_number": 43,
+    "question_text": "43.  Match List-I with List-II. List-I    List-II (A)  Electric  field  inside  (I)  \uf073 / \uf065  0 (distance  r  >  0  from center)  of  a  uniformly charged  spherical  shell with  surface  charge density \uf073, and radius R. (B)  Electric  field  at  distance   (II)  \uf073 / 2\uf065 0\uf020 r  >  0  from  a  uniformly charged  infinite  plane sheet with surface charge density \uf073\uf02e (C)  Electric  field  outside  (III) (distance  r  >  0  from center)  of  a  uniformly charged  spherical  shell with  surface  charge density \uf073, and radius R \uf030\uf020 (D)  Electric  field  between  2  (IV) oppositely  charged  \uf065 0r infinite  plane  parallel sheets  with  uniform surface charge density \uf073. 2 \uf073 \uf020 ",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 352.47463999999997,
+      "bottom": 774.9446399999999,
+      "left": 304.87,
+      "right": 562.8
+    },
+    "page": 14,
+    "side": "Part 2",
+    "images": [
+      "page14_q43_diagram.png"
+    ]
+  },
+  {
+    "question_number": 44,
+    "question_text": "44.  The workdone in an adiabatic change in an ideal gas depends upon only :",
+    "options": {
+      "(1)": "change in its pressure",
+      "(2)": "change in its specific heat",
+      "(3)": "change in its volume",
+      "(4)": "change in its temperature"
+    },
+    "answer": "(4)",
+    "solution": "\uf044W = \u2013\uf044U = \u2013 nC V\uf044T",
+    "bounds": {
+      "top": 321.87464,
+      "bottom": 463.74231999999995,
+      "left": 35.39999999999997,
+      "right": 293.22374719999993
+    },
+    "page": 15,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 45,
+    "question_text": "45.  Given below are two statements : one is labelled as Assertion (A) and other is labelled as Reason (R). Assertion  (A)  :  Electromagnetic  waves  carry energy but not momentum. Reason (R) : Mass of a photon is zero. In the light of the above statements, choose the most appropriate answer from the options given below : correct explanation of (A). explanation of (A).",
+    "options": {
+      "(1)": "",
+      "(2)": "",
+      "(3)": "Both",
+      "(4)": "Both"
+    },
+    "answer": "(2)",
+    "solution": "Assertion  is  false  because  em  waves  have momentum.",
+    "bounds": {
+      "top": 468.29463999999996,
+      "bottom": 777.8246399999999,
+      "left": 35.39999999999999,
+      "right": 293.32568096
+    },
+    "page": 15,
+    "side": "Part 1",
+    "images": [
+      "page15_q45_diagram.png"
+    ]
+  },
+  {
+    "question_number": 46,
+    "question_text": "46.  The coordinates of a particle with respect to origin in a given reference frame is (1, 1, 1) meters. If a force of  F \uf03d i \uf02d j \uf02b k  acts on the particle, then the \u02c6 \u02c6 \u02c6 magnitude  of  torque  (with  respect  to  origin)  in z-direction is _________.",
+    "options": {},
+    "answer": "(2)",
+    "solution": "\uf074\uf03d r \uf0b4 F \uf03d 1 1 1 1 \uf02d 1 1 \u02c6 \u02c6 \u02c6 i j k \uf074\uf03d k( \uf02d 1 \uf02d 1) \uf03d\uf02d 2k \u02c6 \u02c6 | \uf074 | \uf03d 2Nm",
+    "bounds": {
+      "top": 81.4846399999999,
+      "bottom": 281.79463999999996,
+      "left": 304.87,
+      "right": 565.44018016
+    },
+    "page": 15,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 47,
+    "question_text": "47.  A  container  of  fixed  volume  contains  a  gas  at 27\u00b0C.  To  double  the  pressure  of  the  gas,  the temperature of gas should be raised to _______ \u00b0C.",
+    "options": {},
+    "answer": "(3)",
+    "solution": "1 \uf03d 2 1 2 P P T T \uf03d 2 P 2P 300 T T 2 = 600 K T 2 = 327\u00b0C",
+    "bounds": {
+      "top": 288.39464,
+      "bottom": 457.86231999999995,
+      "left": 304.87,
+      "right": 564.5994731200001
+    },
+    "page": 15,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 48,
+    "question_text": "48.  Two  light  beams  fall  on  a  transparent  material block  at  point  1  and  2  with  angle  \uf071 1  and  \uf071 , 2 respectively, as shown in figure. After refraction, the beams intersect at point 3 which is exactly on the interface at other end of the block. Given : the distance  between  1  and  2,  d \uf03d 4 3cm   and \uf071 \uf03d\uf071 \uf03d cos \uf02d 1 2 \uf0f8,  where  refractive  index  of 1 2 1 n 2n \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 the  block  n 2  >  refractive  index  of  the  outside medium  n 1,  then  the  thickness  of  the  block  is ________ cm.  \uf071 1  \uf071 2 n 1 1 2 d 3 n 2",
+    "options": {},
+    "answer": "(6)",
+    "solution": "",
+    "bounds": {
+      "top": 461.93464,
+      "bottom": 785.62464,
+      "left": 304.87,
+      "right": 562.8001916799999
+    },
+    "page": 15,
+    "side": "Part 2",
+    "images": [
+      "page15_q48_diagram.png"
+    ]
+  },
+  {
+    "question_number": 49,
+    "question_text": "49.  In a hydraulic lift, the surface area of the input piston is 6 cm2 and that of the output piston is 1500 cm2. If 100 N force is applied to the input piston to raise the output piston by 20 cm, then the work done is _________ kJ.",
+    "options": {},
+    "answer": "(5)",
+    "solution": "  6cm2 F=100N 1500cm2 20cm 1 \uf03d 2 ,  \uf03d ,  F \uf03d \uf0b4 1500 1 2 F F A A 6 1500 3 100 F 50 F = 50 \u00d7 500 = 25 \u00d7103 N \uf077\uf03d F.S \uf03d 25 \uf0b4 10 3 \uf0b4 20 100  = 5 \u00d7 103 = 5 kJ",
+    "bounds": {
+      "top": 348.63464,
+      "bottom": 649.64464,
+      "left": 35.400000000000006,
+      "right": 295.9701272
+    },
+    "page": 16,
+    "side": "Part 1",
+    "images": [
+      "page16_q49_diagram.png"
+    ]
+  },
+  {
+    "question_number": 50,
+    "question_text": "50.  The maximum speed of a boat in still water is 27 km/h. Now this boat is moving downstream in a river flowing at 9 km/h. A man in the boat throws a ball  vertically  upwards  with  speed  of  10  m/s. Range of the ball as observed by an observer at rest on the river bank, is _________ cm. (Take g = 10 m/s2)",
+    "options": {},
+    "answer": "(2)",
+    "solution": " v  = 9 + 27 = 36 km/hr b  v \uf03d 36 \uf0b4  = 10 m/sec b 36000 1000 Time of flight =   = 2 sec 2 \uf0b4 10 10 Range = 10 \u00d7 2 = 20m = 2000 cm ",
+    "bounds": {
+      "top": 64.30463999999995,
+      "bottom": 373.23464,
+      "left": 304.87,
+      "right": 565.4402310399998
+    },
+    "page": 16,
+    "side": "Part 2",
+    "images": [
+      "page16_q50_diagram.png"
+    ]
+  },
+  {
+    "question_number": 51,
+    "question_text": "51. Total number of nucleophiles from the following is :- NH 3,  PhSH,  (H 3C) 2S,  H 2C=CH 2,  OH,  H 3O\uf0c5, (CH 3) 2 CO,   NCH 3",
+    "options": {
+      "(1)": "5",
+      "(2)": "4",
+      "(3)": "7",
+      "(4)": "6"
+    },
+    "answer": "(1)",
+    "solution": "Total five nucleophiles are present NH 3, PhSH, (H 3C) 2S, CH 2=CH 2, OH",
+    "bounds": {
+      "top": 156.12464,
+      "bottom": 315.23335999999995,
+      "left": 35.39999999999999,
+      "right": 290.45
+    },
+    "page": 17,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 52,
+    "question_text": "52. The standard reduction potential values of some of the p-block ions are given below. Predict the one with the strongest oxidising capacity. Sn 4 \uf02b T l 3 \uf02b Sn 2 \uf02b T l E \uf03d\uf02b 1.26V Al 3 \uf02b Pb 4 \uf02b Al 2 \uf02b Pb",
+    "options": {
+      "(1)": "E \uf03d\uf02b 1.15V",
+      "(3)": "E \uf03d \u20131.66V",
+      "(4)": "E \uf03d\uf02b 1.67V"
+    },
+    "answer": "(4)",
+    "solution": "Standard reduction potential value (+ve) increases oxidising capacity increases.",
+    "bounds": {
+      "top": 322.11464,
+      "bottom": 486.53463999999997,
+      "left": 35.4,
+      "right": 293.12869295999997
+    },
+    "page": 17,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 53,
+    "question_text": "53. The molar conductivity of a weak electrolyte when plotted against the square root of its concentration, which of the following is expected to be observed? observed at infinite dilution. observed at infinite dilution. increase in concentration. increase in concentration.",
+    "options": {
+      "(1)": "A  small  decrease  in  molar  conductivity  is",
+      "(2)": "A  small  increase  in  molar  conductivity  is",
+      "(3)": "Molar  conductivity  increases  sharply  with",
+      "(4)": "Molar  conductivity  decreases  sharply  with"
+    },
+    "answer": "(4)",
+    "solution": " Molar conductivity C",
+    "bounds": {
+      "top": 493.85464,
+      "bottom": 777.4544094678249,
+      "left": 35.39999999999998,
+      "right": 290.5090223999999
+    },
+    "page": 17,
+    "side": "Part 1",
+    "images": [
+      "page17_q53_diagram.png"
+    ]
+  },
+  {
+    "question_number": 54,
+    "question_text": "54. At  temperature  T,  compound  AB 2(g)  dissociates as  AB 2(g)  \uf083 AB (g)  + B 2(g)  having  degree  of 1 2 dissociation  x  (small  compared  to  unity).  The correct expression for x in terms of K p and p is p p 2K 2K p p 2 3 2K p p",
+    "options": {
+      "(1)": "3",
+      "(2)": "4",
+      "(3)": "p",
+      "(4)": "K"
+    },
+    "answer": "(3)",
+    "solution": "AB  AB B 2(g)  2(g) (g) +1 2 t P eq.\uf028 \uf029 1\u2013x xP 2 x x 1 \uf02b 1 \uf02b 1 \uf02b 2 2 2 \uf0e6 x \uf0f6 P x \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0de\uf020x\uf020\uf03c\uf03c\uf020\uf031\uf020\uf0de\uf020 1 \uf02b  1and 1 \u2013 x   1 x 2 \uf020 \uf0de  k \uf03d \uf028 \uf029 1 \uf0e6 xp \uf0f6 2 P xp . \uf0e8 2 \uf0f8 P \uf0e7 \uf0f7 \uf020 \uf0de\uf020 k \uf03d x . 2 2 P xP 2 2 x \uf03d 3 P 2k P",
+    "bounds": {
+      "top": 137.76463999999999,
+      "bottom": 586.2900901954685,
+      "left": 304.87,
+      "right": 562.7142136
+    },
+    "page": 17,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 55,
+    "question_text": "55. Match List-I with List-II. List-I  List-II (Structure)  (IUPAC Name) (A)  (I) H 3C\u2013CH 2\u2013CH\u2013CH 2\u2013CH\u2013C 2H 4-Methylpent-1- 5 C 2H CH ene 5 3 (B)  (CH 3) 2C (C 3H 7) (II) 2 3-Ethyl-5- methylheptane (C)  (III) 4,4- Dimethylheptane (D)  (IV) 2-Methyl-1,3- pentadiene",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 595.28464,
+      "bottom": 769.704,
+      "left": 304.87,
+      "right": 558.81
+    },
+    "page": 17,
+    "side": "Part 2",
+    "images": [
+      "page17_q55_diagram.png"
+    ]
+  },
+  {
+    "question_number": 56,
+    "question_text": "56.  Choose the correct statements. (A) Weight of a substance is the amount of matter present in it. (B) Mass is the force exerted by gravity on an object. (C) Volume is the amount of space occupied by a substance. (D)  Temperatures  below  0\u00baC  are  possible  in Celsius  scale,  but  in  Kelvin  scale  negative temperature is not possible. (E)  Precision  refers  to  the  closeness  of  various measurements for the same quantity.",
+    "options": {
+      "(1)": "",
+      "(2)": "",
+      "(3)": "",
+      "(4)": ""
+    },
+    "answer": "(4)",
+    "solution": "Theory based",
+    "bounds": {
+      "top": 432.05464,
+      "bottom": 789.2246399999999,
+      "left": 35.400000000000006,
+      "right": 293.26629216000003
+    },
+    "page": 18,
+    "side": "Part 1",
+    "images": [
+      "page18_q56_diagram.png"
+    ]
+  },
+  {
+    "question_number": 57,
+    "question_text": "57.  The  correct  increasing  order  of  stability  of  the complexes based on \uf044 o value is : (I) [Mn(CN) (II) [Co(CN) 6]3\u2013  6]4\u2013 (III) [Fe(CN) (IV) [Fe(CN) 6]4\u2013  6]3\u2013",
+    "options": {
+      "(1)": "II < III < I < IV",
+      "(2)": "IV < III < II < I",
+      "(3)": "I < II < IV < III",
+      "(4)": "III < II < IV < I"
+    },
+    "answer": "(3)",
+    "solution": "(I) [Mn(CN) \u20131.6 \uf044 6]3\u2013  o (II) [Co(CN) 6]4\u2013  \u20131.8 \uf044 o (III) [Fe(CN) \u20132.4 \uf044 6]4\u2013  o 6]3\u2013 (IV) [Fe(CN) \u20132.0 \uf044 o  I < II < IV < III",
+    "bounds": {
+      "top": 64.06463999999994,
+      "bottom": 312.23335999999995,
+      "left": 304.86999999999995,
+      "right": 562.5239156800001
+    },
+    "page": 18,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 58,
+    "question_text": "58.  Match List-I with List-II. List-I (Complex) List-II (Hybridisation & Magnetic characters) (A)  [MnBr 4]2\u2013  (I)  d2sp3 & diamagnetic (B)  [FeF (II) 6]3\u2013  sp3d2 & paramagnetic (C)  3]3\u2013  (III) [Co(C 2O 4) sp3 & diamagnetic (D)  (IV) [Ni(CO) 4] sp3 & paramagnetic Choose the correct answer from the options given below :",
+    "options": {
+      "(1)": "",
+      "(2)": "",
+      "(3)": "",
+      "(4)": ""
+    },
+    "answer": "(4)",
+    "solution": "(A) [MnBr 4]2\u2013  Mn+2 \uf0de [Ar] 3d5 In presence of ligand field \uf0de [Ar]  3d  4s  4p   \uf0de\uf020sp3 hybridization, paramagnetic in nature",
+    "bounds": {
+      "top": 321.51464,
+      "bottom": 810.4646399999999,
+      "left": 304.86999999999995,
+      "right": 562.66191088
+    },
+    "page": 18,
+    "side": "Part 2",
+    "images": [
+      "page18_q58_diagram.png"
+    ]
+  },
+  {
+    "question_number": 59,
+    "question_text": "59.  In the following substitution reaction :  Br Br NO 2 C 2H 5ONa C 2H 5OH P Product Product \u2018P\u2019 formed is :   OC 2H OC 2H 5  5 Br  OC 2H NO 2  NO 2 5   Br  OC 2H 5 NO 2  OC 2H Br Br 5",
+    "options": {
+      "(1)": "",
+      "(3)": ""
+    },
+    "answer": "(1)",
+    "solution": "It  is  an  example  of  nucleophillic  Aromatic substitution reaction.  Br  OC 2H Br  Br NO 2  NO 2 C 2H 5ONa C 2H 5OH 5",
+    "bounds": {
+      "top": 403.13464,
+      "bottom": 791.74464,
+      "left": 35.39999999999998,
+      "right": 293.3080267199999
+    },
+    "page": 19,
+    "side": "Part 1",
+    "images": [
+      "page19_q59_diagram.png"
+    ]
+  },
+  {
+    "question_number": 60,
+    "question_text": "60.  For a Mg | Mg2+ (aq) || Ag+(aq) | Ag the correct Nernst Equation is : cell cell 2F [Mg 2 \uf02b ] RT [Ag \uf02b ] \uf02b 2 cell cell 2 \uf02b RT [Ag ] 2F [Mg ] 2 \uf02b o cell cell \uf02b RT [Mg ] 2F [Ag ] RT [Ag \uf02b ] 2 o cell cell 2 \uf02b 2F [Mg ]",
+    "options": {
+      "(1)": "E \uf03d E o \uf02d ln",
+      "(2)": "E \uf03d E o \uf02b ln",
+      "(3)": "E \uf03d E \uf02d ln",
+      "(4)": "E \uf03d E \uf02d ln"
+    },
+    "answer": "(2)",
+    "solution": "According to Nernst equation :- ln Q. E = E\u00b0 \u2013 RT nF Cell reaction :- Mg (s) +  2Ag (s) + \uf028 aq \uf029 \uf028 aq \uf029 2Ag\uf02b Mg\uf02b 2 \uf0de\uf020Q = \uf0e9 Mg Ag\uf02b 2 \uf0f9 2 \uf0e9 \uf02b \uf0f9 \uf0eb \uf0fb \uf0eb \uf0fb \uf020 \uf0de\uf020\uf045\uf020\uf03d\uf020 E o ln  \uf0fb Cell 2 \u2013RT \uf0eb \uf0fb 2F \uf0ea \uf0fa \uf0e9 Ag\uf02b 2 \uf0f9 \uf0e9 Mg \uf0f9 \uf0e9 \uf02b \uf0f9 \uf0ea \uf0fa \uf0eb \uf0eb \uf0fb",
+    "bounds": {
+      "top": 62.22335999999996,
+      "bottom": 472.49334614977244,
+      "left": 304.87,
+      "right": 562.6898152
+    },
+    "page": 19,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 61,
+    "question_text": "61.  The correct option with order of melting points of the pairs (Mn, Fe), (Tc, Ru) and (Re, Os) is :",
+    "options": {
+      "(1)": "Fe < Mn, Ru < Tc and Re < Os",
+      "(2)": "Mn < Fe, Tc < Ru and Re < Os",
+      "(3)": "Mn < Fe, Tc < Ru and Os < Re",
+      "(4)": "Fe < Mn, Ru < Tc and Os < Re"
+    },
+    "answer": "(3)",
+    "solution": "M.P. \uf0de Mn < Fe, Tc < Ru, Os < Re NCERT based",
+    "bounds": {
+      "top": 481.97464,
+      "bottom": 648.32464,
+      "left": 304.87,
+      "right": 562.56808672
+    },
+    "page": 19,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 62,
+    "question_text": "62.  1.24  g  of  AX 2  (molar  mass  124  g  is mol\u20131) dissolved in 1 kg of water to form a solution with boiling point of 100.0156\u00b0C, while 25.4 g of AY 2 (molar  mass  250  g  mol\u20131)  in  2  kg  of  water constitutes  a  solution  with  a  boiling  point  of",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 654.64336,
+      "bottom": 744.58464,
+      "left": 304.87,
+      "right": 562.8000000000001
+    },
+    "page": 19,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 100,
+    "question_text": "100.0260\u00b0C. K b(H 2O) = 0.52 K kg mol\u20131",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 752.74464,
+      "bottom": 783.78336,
+      "left": 304.87,
+      "right": 456.46000000000004
+    },
+    "page": 19,
+    "side": "Part 2",
+    "images": [
+      "page19_q100_diagram.png"
+    ]
+  },
+  {
+    "question_number": 0,
+    "question_text": "0.0156 = 0.52 \u00d7 0.01 1 2 \u00d7  i AX \uf0de\uf020 i = 3 \uf020\uf020\uf0de\uf020complete ionisation 2 AX For AY 2 :- \uf044T b = K b \u00d7 m \u00d7 i",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 269.436811815837,
+      "bottom": 347.99336,
+      "left": 63.74399999999999,
+      "right": 222.89004175999997
+    },
+    "page": 20,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 0,
+    "question_text": "0.026 = 0.52 \u00d7 0.0508 \u00d7  i 2 AY \uf020 \uf0de\uf020 i  1 \uf05c complete unionisation 2 AY",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 360.69505853559565,
+      "bottom": 403.1421354735329,
+      "left": 35.4,
+      "right": 228.89006239999995
+    },
+    "page": 20,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 63,
+    "question_text": "63. 500 J of energy is transferred as heat to 0.5 mol of Argon  gas  at  298  K  and  1.00  atm.  The  final temperature  and  the  change  in  internal  energy respectively are : Given : R = 8.3 J K\u20131 mol\u20131",
+    "options": {
+      "(1)": "348 K and 300 J",
+      "(2)": "378 K and 300 J",
+      "(3)": "368 K and 500 J",
+      "(4)": "378 K and 500 J"
+    },
+    "answer": null,
+    "solution": "q p = n \u00d7 c p \u00d7 \uf044T \uf0de\uf020500 = 0.5 \u00d7 \u00d7 8.3 (T f \u2013298) 5 2 \uf020 \uf0de\uf020T  346.2K f \uf020 = = \uf044 H \uf0e6 \uf0f6 \uf044 U C \uf0e8 3 \uf0f8 p v C 5 \uf0e7 \uf0f7 \uf020 \u00d7 500 = 300 J \uf0de\uf020\uf044U\uf020\uf03d\uf0203 5",
+    "bounds": {
+      "top": 416.33464000000004,
+      "bottom": 759.3064964280529,
+      "left": 35.39999999999999,
+      "right": 293.16615168
+    },
+    "page": 20,
+    "side": "Part 1",
+    "images": [
+      "page20_q63_diagram.png"
+    ]
+  },
+  {
+    "question_number": 65,
+    "question_text": "65. If a 0 is denoted as the Bohr radius of hydrogen atom, then what is the de-Broglie wavelength (\uf06c) of  the  electron  present  in  the  second  orbit  of hydrogen atom ? [n : any integer] 2a 8 \uf070 a n\uf070 n 4 \uf070 a 4n n \uf070 a 0",
+    "options": {
+      "(1)": "0",
+      "(2)": "0",
+      "(3)": "0"
+    },
+    "answer": "(2)",
+    "solution": "2\uf070r n = n\uf06c\uf020 2\uf070  .(4a 0) = n\uf06c\uf020 = \uf06c\uf020=\uf020 0 8 \uf070 a n",
+    "bounds": {
+      "top": 506.33464,
+      "bottom": 784.3797017572799,
+      "left": 304.87,
+      "right": 562.80002
+    },
+    "page": 20,
+    "side": "Part 2",
+    "images": [
+      "page20_q65_diagram.png"
+    ]
+  },
+  {
+    "question_number": 66,
+    "question_text": "66.  The product (P) formed in the following reaction is : \uf0be\uf0be\uf0be\uf0ae Product (P)   HCl O  O O  H O Zn \uf02d Hg    OH OH HO    O  O O HO    O    O O HO HO",
+    "options": {
+      "(3)": "O"
+    },
+    "answer": "(3)",
+    "solution": "   Zn-Hg/HCl O  O O O H Clemmensen   O O Reduction",
+    "bounds": {
+      "top": 64.06463999999994,
+      "bottom": 543.29464,
+      "left": 35.39999999999998,
+      "right": 293.33
+    },
+    "page": 21,
+    "side": "Part 1",
+    "images": []
+  },
+  {
+    "question_number": 67,
+    "question_text": "67.  An element \u2018E\u2019 has the ionisation enthalpy value of 374 kJ mol\u20131. \u2018E\u2019 reacts with elements A, B, C and D with electron gain enthalpy values of \u2013328, \u2013349, \u2013325 and \u2013295 kJ mol\u20131, respectively. The correct order of the products EA, EB, EC and ED in terms of ionic character is :",
+    "options": {
+      "(1)": "EB > EA > EC > ED",
+      "(2)": "ED > EC > EA > EB",
+      "(3)": "EA > EB > EC > ED",
+      "(4)": "ED > EC > EB > EA"
+    },
+    "answer": "(1)",
+    "solution": "Difference between I.E. & E.G.E increases, ionic character increases.",
+    "bounds": {
+      "top": 548.60464,
+      "bottom": 783.70464,
+      "left": 35.400000000000006,
+      "right": 295.97000768000004
+    },
+    "page": 21,
+    "side": "Part 1",
+    "images": [
+      "page21_q67_diagram.png"
+    ]
+  },
+  {
+    "question_number": 68,
+    "question_text": "68.  Match List \u2013 I with List \u2013 II. List \u2013 I    List \u2013 II (Carbohydrate)  (Linkage Source) (A)  Amylose  (I)  \uf062-C 1-C 4, plant (B)  Cellulose  (II) \uf061-C 1-C 4, animal (C)  Glycogen  (III)  \uf061-C 1-C 4, \uf061-C 1-C 6, plant\uf020 (D)  Amylopectin  (IV)  \uf061-C 1-C 4, plant\uf020 Choose the correct answer form the options given below :",
+    "options": {
+      "(1)": "",
+      "(2)": "",
+      "(3)": "",
+      "(4)": ""
+    },
+    "answer": "(2)",
+    "solution": "Informative",
+    "bounds": {
+      "top": 64.06463999999994,
+      "bottom": 364.5946399999999,
+      "left": 304.87,
+      "right": 562.66191088
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 69,
+    "question_text": "69.  The  steam  volatile  compounds  among  the following are : (A)  2    (B)   2  OH  NH 2 NO NO (C)    (D)  H 2N  HO OH NH 2 Choose the correct answer from the options given below :",
+    "options": {
+      "(1)": "",
+      "(2)": "",
+      "(3)": "",
+      "(4)": ""
+    },
+    "answer": "(3)",
+    "solution": "(A)  2 &  (B)   2  OH NO NH 2 NO are steam volatile due to intramolecular hydrogen bonding.",
+    "bounds": {
+      "top": 371.31463999999994,
+      "bottom": 660.08464,
+      "left": 304.86999999999995,
+      "right": 562.6619108799999
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 70,
+    "question_text": "70.  Given below are two statements : Statement (I) : The radii of isoelectronic species increases in the order.  Mg2+ < Na+ < F\u00af < O2\u2013 Statement (II) : The magnitude of electron gain enthalpy of halogen decreases in the order.  Cl  > F > Br  > I",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 666.80464,
+      "bottom": 784.30464,
+      "left": 304.87,
+      "right": 562.64341792
+    },
+    "page": 21,
+    "side": "Part 2",
+    "images": [
+      "page21_q70_diagram.png"
+    ]
+  },
+  {
+    "question_number": 71,
+    "question_text": "71.  Given  below  are  some  nitrogen  containing compounds.  NH 2 NO 2 CH 2\u2013NH 2 N\u2013COCH 3 H NH 2 Each of them is treated with HCl separately. 1.0 g of  the  most  basic  compound  will  consume ______mg of HCl. (Given molar mass in g mol\u20131  C:12, H : 1, O : 16, Cl : 35.5)",
+    "options": {},
+    "answer": "(3)",
+    "solution": "Benzyl Amine is most basic due to localised lone pair.  CH 2\u2013NH CH 2\u2013NH 3Cl 2 +  HCl \uf0be\uf0ae \uf0c5\uf020 \uf021 (Benzyl Amine) Mole of benzyl Amine \uf0de  \uf03d 0.00934  mole 1 107 1 Mole of Benzyl amine consumed 1 mole of HCl So, Mole of HCl consumed \uf0ae 0.00934 mole Mass of HCl consumed \uf0ae 0.00934 \u00d7 molar mass of HCl = 0.00934 \u00d7 36.5 = 0.341 gm = 341 mg",
+    "bounds": {
+      "top": 302.9146400000001,
+      "bottom": 788.9846399999999,
+      "left": 35.39999999999995,
+      "right": 293.21190368
+    },
+    "page": 22,
+    "side": "Part 1",
+    "images": [
+      "page22_q71_diagram.png"
+    ]
+  },
+  {
+    "question_number": 72,
+    "question_text": "72.  The  molar  mass  of  the  water  insoluble  product formed  from the fusion of chromite ore (FeCr 2O 4) with Na 2CO 3 in presence of O 2 is ______g mol\u20131.",
+    "options": {},
+    "answer": "(1)",
+    "solution": "4FeCr 2O 4 + 8Na 2CO 3 + 7O 2 \uf0ae 8Na 2CrO 4 + 2Fe 2O 3 + 8CO 2 Fe 2O 3 is water insoluble, so its molar mass \uf0de  [2 \u00d7 56 + 3 \u00d7 16] \uf0de 160 g/mol",
+    "bounds": {
+      "top": 64.06463999999994,
+      "bottom": 182.28463999999985,
+      "left": 304.87,
+      "right": 562.80002
+    },
+    "page": 22,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 73,
+    "question_text": "73.  The sum of sigma (\uf073) and pi(\uf070) bonds in Hex-1,3-dien-5-yne is _______.",
+    "options": {},
+    "answer": "(1)",
+    "solution": "H\u2013C=C\u2013C=C\u2013C\uf0baC\u2013H  H H  H H Number of \uf073 bond = 11 Number of \uf070 bond = 4 \uf073 + \uf070 = 11 + 4 = 15",
+    "bounds": {
+      "top": 190.20463999999993,
+      "bottom": 349.71464,
+      "left": 304.87,
+      "right": 518.2599952
+    },
+    "page": 22,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 74,
+    "question_text": "74.  If A 2B is 30% ionised in an aqueous solution, then the value of van\u2019t Hoff factor (i) is _____\u00d710\u20131.",
+    "options": {},
+    "answer": "(1)",
+    "solution": "A 2B \uf0ae\uf0202A+ + B\u20132 ; y = 3 \uf061 = 0.3 i = 1 + (y \u2013 1)\uf061 = 1 + (3 \u2013 1)  (0.3) = 1.6 = 16 \u00d7 10\u20131",
+    "bounds": {
+      "top": 356.67464,
+      "bottom": 477.53463999999997,
+      "left": 304.87,
+      "right": 562.5915337600001
+    },
+    "page": 22,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 75,
+    "question_text": "75. one mole  OH  P  Q CrO 3  OH  OH excess H+ 3O(+) 1  NaBH 4 \u2018S\u2019  R reduction 2 H 2O 1 CH 3Mg I in ether 2 H OH",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 484.5096223795839,
+      "bottom": 578.8962732256,
+      "left": 304.87019999999995,
+      "right": 562.8000019199999
+    },
+    "page": 22,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 0,
+    "question_text": "0.1 mole of compound \u2018S\u2019 will weigh_____g.  (Given molar mass in g mol\u20131 C:12, H:1, O:16)",
+    "options": {
+      "(1)": "CH 3MgBr",
+      "(2)": "H"
+    },
+    "answer": "(1)",
+    "solution": " \u2013CH OH  CrO OH OH  O  O  one mole 3 (excess) H\uf0c5  (P) OH  OH O 4  OH O  O (S)  (R)  3O\uf0c5\uf020 (Q) \uf020 4 OH  OH OH  O  O  O ",
+    "bounds": {
+      "top": 582.68464,
+      "bottom": 728.98464,
+      "left": 304.8699999999999,
+      "right": 562.68
+    },
+    "page": 22,
+    "side": "Part 2",
+    "images": []
+  },
+  {
+    "question_number": 0,
+    "question_text": "0.1 mole of compound (S) weight in gm = 0.1 \u00d7 molar mass of compound (S) = 0.1 \u00d7 130 = 13 gm",
+    "options": {},
+    "answer": null,
+    "solution": "",
+    "bounds": {
+      "top": 732.9446399999999,
+      "bottom": 779.38464,
+      "left": 304.86999999999995,
+      "right": 515.3802342399999
+    },
+    "page": 22,
+    "side": "Part 2",
+    "images": [
+      "page22_q0_diagram.png"
+    ]
+  }
+]
