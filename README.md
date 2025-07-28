@@ -1,23 +1,25 @@
-# Microsoft_submission
 
-# Question Paper Extractor
+# 📘 Question Paper Extractor
 
-This Python utility extracts structured question data from dual-column **JEE Mains PDF question papers with solutions**, including:
-
-- Question text  
-- Options  
-- Answers  
-- Solutions  
-- Bounding boxes  
-- Extracted diagrams or images (if present)  
-
-It outputs:
-- A **JSON** file per paper with structured data  
-- Extracted **images** of diagrams for each question  
+A Python utility to extract structured question data—including diagrams—from dual-column **JEE Mains PDF question papers with solutions**.
 
 ---
 
-## 📂 Project Structure
+## 📦 Output
+
+- Structured **JSON** per paper with:
+  - Question text  
+  - Options  
+  - Answers  
+  - Solutions  
+  - Bounding boxes  
+  - Diagram/image file names (if present)
+
+- Extracted **images** for questions containing diagrams
+
+---
+
+## 🧾 Project Structure
 
 ```
 project-root/
@@ -25,29 +27,29 @@ project-root/
 │   ├── pdf/          # Input PDFs
 │   ├── images/       # Output directories for question diagrams
 │   └── json/         # Output JSONs with question details
-├── simple_parser.py           # Entry point to run the parser
-└── README.md         # This file
+├── simple_parser.py  # Entry point to run the parser
+└── README.md         # Documentation
 ```
 
 ---
 
-##  Features
+## 🔧 Features
 
--  Handles **dual-column PDFs** (splits pages into left/right halves)
--  Identifies:
-  - Question numbers using `^\d+\.` pattern
-  - Options using `\((1|2|3|4)\)`
-  - Answer using pattern like `Ans. (3)`
+- ✅ Handles **dual-column PDFs**
+- ✅ Identifies question parts:
+  - Questions using `^\d+\.` pattern
+  - Options using `(1)` to `(4)`
+  - Answers using `Ans. (X)` format
   - Solutions starting with `Sol.`
--  Extracts bounding box for each question region
--  Captures **images** within question bounds if not blank
--  Saves structured output in **JSON format**
+- ✅ Extracts bounding boxes for question content
+- ✅ Captures and filters out blank diagrams
+- ✅ Saves clean structured output as **JSON**
 
 ---
 
-##  Requirements
+## 🛠 Requirements
 
-Install the dependencies via:
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -57,68 +59,97 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 
-### Step 1: Add PDFs
+1. **Add PDFs**  
+   Drop your question papers in `data/pdf/`.
 
-Place your PDFs in the `data/pdf/` folder.
+2. **Run the extractor**  
+   ```bash
+   python simple_parser.py
+   ```
 
-### Step 2: Run the script
-
-```bash
-python simple_parser.py
-```
-
-This will:
-- Parse all PDFs in `data/pdf/`
-- Generate:
-  - JSON output in `data/json/`
-  - Diagram images in `data/images/<pdf_name>/`
+3. **Output**  
+   - JSON files → `data/json/`  
+   - Diagram images → `data/images/<pdf_name>/`
 
 ---
 
-## 🧪 Example
+## 📁 Example
 
-For a PDF named:
+For a PDF file:
 
 ```
 data/pdf/13629-JEE-Main-2025-Question-Paper-with-Solution-22-Jan-Shift-1-PDF.pdf
 ```
 
-You’ll get:
-
+The output includes:
 - `data/json/13629-JEE-Main-2025-Question-Paper-with-Solution-22-Jan-Shift-1-PDF.json`
-- `data/images/13629-JEE-Main-2025-Question-Paper-with-Solution-22-Jan-Shift-1-PDF/`  
-  (containing extracted diagram images)
+- Diagram images in:
+  `data/images/13629-JEE-Main-2025-Question-Paper-with-Solution-22-Jan-Shift-1-PDF/`
 
 ---
 
-## 🛠 Internals
+## 🧠 High-Level Approach
 
-### Key Functions
+### 1. PDF Initialization
+- Load each PDF using:
+  - `pdfplumber` for extracting text and word positions
+  - `PyMuPDF (fitz)` for extracting diagrams
+
+### 2. Page Splitting
+- Each page is split vertically into two halves:
+  - Left (`Part 1`) and Right (`Part 2`) for dual-column layout
+
+### 3. Word Grouping
+- Group words into lines using their vertical (`y`) positions
+- Ensures multi-line questions and options are handled properly
+
+### 4. Question Parsing
+- Detects:
+  - Start of question (e.g., `1.`)
+  - Options in form `(1)`, `(2)`, ...
+  - Answers like `Ans. (3)`
+  - Solutions starting with `Sol.`
+- Maintains:
+  - Question lines
+  - Options dictionary
+  - Solution lines
+  - Bounding box coordinates
+  - Image references
+
+### 5. Diagram Extraction
+- Calculate bounding box of each question
+- Render it using PyMuPDF
+- If image is not blank (checked by pixel variance), save it
+- Link image filename in JSON
+
+### 6. Structured Output
+- Each question saved with:
+  - `question_number`, `question_text`, `options`, `answer`, `solution`, `images`, etc.
+- Saved in a `.json` file
+
+### 7. Batch Mode
+- The `runner()` supports multiple PDFs from `data/pdf/`
+- Creates corresponding `images/` and `json/` folders
+
+---
+
+## 🔎 Key Functions
 
 | Function              | Purpose                                                  |
 |-----------------------|----------------------------------------------------------|
-| `is_question_start`   | Detects question number start like `1.`                  |
-| `is_answer_line`      | Detects answer line like `Ans. (3)`                      |
-| `is_solution_start`   | Detects start of solution using `Sol.`                   |
-| `group_words_by_line` | Groups words based on vertical position to form lines    |
-| `extract_text_and_bounds` | Extracts the bounding box for each line             |
-| `is_image_blank`      | Detects and skips nearly blank images                   |
+| `is_question_start`   | Detects question start using regex                       |
+| `is_answer_line`      | Detects line starting with `Ans.`                        |
+| `is_solution_start`   | Detects solution lines starting with `Sol.`              |
+| `group_words_by_line` | Groups words to form lines using vertical proximity      |
+| `extract_text_and_bounds` | Computes bounding boxes for lines                    |
+| `is_image_blank`      | Filters out blank diagram images                         |
 
 ---
 
-## 📌 Notes
+## 🔗 Sample PDF Source
 
-- Currently supports questions where:
-  - Options are inline or multi-line with (1)...(4) format
-  - Solutions follow immediately after "Sol."
-- Diagrams are extracted from question bounding box and filtered using variance threshold to skip blanks.
-
----
-
-## 📄 Sample PDF Source
-
-Download sample JEE papers:  
-🔗 [eSaral JEE Paper Downloads](https://www.esaral.com/jee/jee-main-2025-question-paper/)
+Download sample PDFs:  
+📥 [eSaral JEE Question Papers](https://www.esaral.com/jee/jee-main-2025-question-paper/)
 
 ---
 
@@ -126,3 +157,5 @@ Download sample JEE papers:
 
 Developed by **Arihant Kamdar**  
 📧 For inquiries, improvements, or contributions, feel free to open an issue or pull request.
+
+---
