@@ -25,7 +25,7 @@ project-root/
 │   ├── pdf/          # Input PDFs
 │   ├── images/       # Output directories for question diagrams
 │   └── json/         # Output JSONs with question details
-├── main.py           # Entry point to run the parser
+├── simple_parser.py           # Entry point to run the parser
 └── README.md         # This file
 ```
 
@@ -64,7 +64,7 @@ Place your PDFs in the `data/pdf/` folder.
 ### Step 2: Run the script
 
 ```bash
-python main.py
+python simple_parser.py
 ```
 
 This will:
